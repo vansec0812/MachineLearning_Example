@@ -1,0 +1,2802 @@
+[
+    {
+        "title": "Approaching ethical issues in the developmental biology classroom",
+        "abstract": "Over the past decades, Developmental Biology has been moving steadily from a rather academic subject to an increasingly practical discipline. It has played a role in the development of contraceptive and conceptive (e.g. in vitro fertilization) technologies. The advent of embryonic (ES) and induced pluripotent stem (iPS) cells and advances in organoids, embryoids, and human-non-human chimeras offer promises and ethical challenges. Courses in developmental biology provide both opportunities and challenges for discussing the societal and ethical implications of new technologies. Here we present outcomes of a Society for Developmental Biology workshop on “teaching ethical issues in developmental biology.” We point out important considerations and possible approaches, as well as the need to set boundaries on discussions of the critical issues posed by the new science of embryonic engineering"
+    },
+    {
+        "title": "Prospects for synthetic biology in 21st Century agriculture",
+        "abstract": "Plant synthetic biology has emerged as a transformative field in agriculture, offering innovative solutions to enhance food security, provide resilience to climate change, and transition to sustainable farming practices. By integrating advanced genetic tools, computational modeling, and systems biology, researchers can precisely modify plant genomes to enhance traits such as yield, stress tolerance, and nutrient use efficiency. The ability to design plants with specific characteristics tailored to diverse environmental conditions and agricultural needs holds great potential to address global food security challenges. Here we highlight recent advancements and applications of plant synthetic biology in agriculture, focusing on key areas such as photosynthetic efficiency, nitrogen fixation, drought tolerance, pathogen resistance, nutrient use efficiency, biofortification, climate resilience, microbiology engineering, synthetic plant genomes, and the integration of artificial intelligence (AI) with synthetic biology. These innovations aim to maximize resource use efficiency, reduce reliance on external inputs, and mitigate environmental impacts associated with conventional agricultural practices. Despite challenges related to regulatory approval and public acceptance, the integration of synthetic biology in agriculture holds immense promise for creating more resilient and sustainable agricultural systems, contributing to global food security and environmental sustainability. Rigorous multi-field testing of these approaches will undoubtedly be required to ensure reproducibility"
+    },
+    {
+        "title": "The future of integrated structural biology",
+        "abstract": "Instruct-ERIC, “the European Research Infrastructure Consortium for Structural biology research,” is a pan-European distributed research infrastructure making high-end technologies and methods in structural biology available to users. Here, we describe the current state-of-the-art of integrated structural biology and discuss potential future scientific developments as an impulse for the scientific community, many of which are located in Europe and are associated with Instruct. We reflect on where to focus scientific and technological initiatives within the distributed Instruct research infrastructure. This review does not intend to make recommendations on funding requirements or initiatives directly, neither at the national nor the European level. However, it addresses future challenges and opportunities for the field, and foresees the need for a stronger coordination within the European and international research field of integrated structural biology to be able to respond timely to thematic topics that are often prioritized by calls for funding addressing societal needs."
+    },
+    {
+        "title": "How students taking introductory biology experience the chemistry content",
+        "abstract": "Student experiences learning chemistry have been well studied in chemistry courses but less so in biology courses. Chemistry concepts are foundational to introductory biology courses, and student experiences learning chemistry concepts may impact their overall course experiences and subsequent student outcomes. In this study, we asked undergraduate students enrolled in introductory biology courses at a public R1 institution an open-response question asking how their experiences learning chemistry topics affected their identities as biologists. We used thematic analysis to identify common ideas in their responses. We found that while almost half of student respondents cited learning chemistry as having positive impacts on their experiences learning biology, students who struggled with chemistry topics were significantly more likely to have negative experiences learning biology. We also found significant relationships between prior chemistry preparation, student background, and the likelihood of students struggling with chemistry and negative experiences learning biology. These findings emphasize the impact of learning specific content on student psychosocial metrics and suggest areas for biology educators to focus on to support learning and alleviate student stress in introductory biology"
+    },
+    {
+        "title": "AuxSynBio: synthetic biology tools to understand and engineer auxin",
+        "abstract": "The plant hormone auxin is a crucial coordinator of nearly all plant growth and development processes. Because of its centrality to plant physiology and the modular nature of the signaling pathway, auxin has played a critical role at the forefront of plant synthetic biology. This review will highlight how auxin is both a subject and an object of synthetic biology. Engineering biology approaches are deepening our understanding of how auxin pathways are wired and tuned, particularly through the creative use of signaling pathway recapitulation in yeast and engineered orthogonal auxin-receptor pairs. Auxin biology has also been mined for parts by synthetic biologists, with components being used for inducible protein degradation systems (auxin-inducible degron), auxin biosensors, synthetic cell–cell communication, and plant engineering."
+    },
+    {
+        "title": "Versatile system cores as a conceptual basis for generality in cell and developmental biology",
+        "abstract": "The discovery of general principles underlying the complexity and diversity of cellular and developmental systems is a central and long-standing aim of biology. While new technologies collect data at an ever-accelerating rate, there is growing concern that conceptual progress is not keeping pace. We contend that this is due to a paucity of conceptual frameworks that support meaningful generalizations. This led us to develop the core and periphery (C&P) hypothesis, which posits that many biological systems can be decomposed into a highly versatile core with a large behavioral repertoire and a specific periphery that configures said core to perform one particular function. Versatile cores tend to be widely reused across biology, which confers generality to theories describing them. Here, we introduce this concept and describe examples at multiple scales, including Turing patterning, actomyosin dynamics, multi-cellular morphogenesis, and vertebrate gastrulation. We also sketch its evolutionary basis and discuss key implications and open questions. We propose that the C&P hypothesis could unlock new avenues of conceptual progress in mesoscale biology."
+    },
+    {
+        "title": "Peptide toxins as tools in ion channel biology",
+        "abstract": "Animal venom contains ion channel-targeting peptide toxins that inflict paralysis or pain. The high specificity and potency of these toxins for their target ion channels provides enticing opportunities for their deployment as tools in channel biology. Mechanistic studies on toxin-mediated ion channel modulation have yielded landmark breakthroughs in our understanding of channel architectures and gating mechanisms. Toxins have been recently repurposed as powerful structural biology probes to obtain structures of ion channels in elusive toxin-stabilized conformations providing unprecedented insights into channel gating. Insightful glimpses of protein–lipid interactions provided by some of these structures have served as blueprints for electrophysiology-based studies aimed at elucidating the functional roles of these interactions. Moreover, toxins appended with fluorophores have been used for clinical, biophysical, and cell biology-based studies. Herein, we summarize the contributions of ion channel-targeting toxins as tools in voltage-gated ion channel and transient receptor potential channel biology"
+    },
+    {
+        "title": "Engineering biology approaches to modulate bacterial biofilms",
+        "abstract": "Building on a productive two decades of advancements in synthetic biology, engineering biology now promises to enable the implementation and scale-up of novel biological systems tailored to tackle urgent global challenges. Here we explore the latest engineering biology approaches for the control and modification of bacterial biofilms with exciting new functionalities"
+    },
+    {
+        "title": "Enhancers: A Focus on Synthetic Biology and Correlated Gene Expression",
+        "abstract": "Enhancers are central for the regulation of metazoan transcription but have proven difficult to study, primarily due to a myriad of interdependent variables shaping their activity. Consequently, synthetic biology has emerged as the main approach for dissecting mechanisms of enhancer function. We start by reviewing simple but highly parallel reporter assays, which have been successful in quantifying the complexity of the activator/coactivator mechanisms at enhancers. We then describe studies that examine how enhancers function in the genomic context and in combination with other enhancers, revealing that they activate genes through a variety of different mechanisms, working together as a system. Here, we primarily focus on synthetic reporter genes that can quantify the dynamics of enhancer biology through time. We end by considering the consequences of having many genes and enhancers within a  local environment , which we believe leads to correlated gene expression and likely reports on the general principles of enhancer biology"
+    },
+    {
+        "title": "Modulating Microbial Materials - Engineering Bacterial Cellulose with Synthetic Biology",
+        "abstract": "The fusion of synthetic biology and materials science offers exciting opportunities to produce sustainable materials that can perform programmed biological functions such as sensing and responding or enhance material properties through biological means. Bacterial cellulose (BC) is a unique material for this challenge due to its high-performance material properties and ease of production from culturable microbes. Research in the past decade has focused on expanding the benefits and applications of BC through many approaches. Here, we explore how the current landscape of BC-based biomaterials is being shaped by progress in synthetic biology. As well as discussing how it can aid production of more BC and BC with tailored material properties, we place special emphasis on the potential of using BC for engineered living materials (ELMs); materials of a biological nature designed to carry out specific tasks. We also explore the role of 3D bioprinting being used for BC-based ELMs and highlight specific opportunities that this can bring. As synthetic biology continues to advance, it will drive further innovation in BC-based materials and ELMs, enabling many new applications that can help address problems in the modern world, in both biomedicine and many other application fields"
+    },
+    {
+        "title": "Modulating cell-free DNA biology as the next frontier in liquid biopsies",
+        "abstract": "Technical advances over the past two decades have enabled robust detection of cell-free DNA (cfDNA) in biological samples. Yet, higher clinical sensitivity is required to realize the full potential of liquid biopsies. This opinion article argues that to overcome current limitations, the abundance of informative cfDNA molecules – such as circulating tumor DNA (ctDNA) – collected in a sample needs to increase. To accomplish this, new methods to modulate the biological processes that govern cfDNA production, trafficking, and clearance in the body are needed, informed by a deeper understanding of cfDNA biology. Successful development of such methods could enable a major leap in the performance of liquid biopsies and vastly expand their utility across the spectrum of clinical care"
+    },
+    {
+        "title": "Synthetic biology approaches to improve tolerance of inhibitors in lignocellulosic hydrolysates",
+        "abstract": "Increasing attention is being focused on using lignocellulose for valuable products. Microbial decomposition can convert lignocellulose into renewable biofuels and other high-value bioproducts, contributing to sustainable development. However, the presence of inhibitors in lignocellulosic hydrolysates can negatively affect microorganisms during fermentation. Improving microbial tolerance to these hydrolysates is a major focus in metabolic engineering. Traditional detoxification methods increase costs, so there is a need for cheap and efficient cell-based detoxification strategies. Synthetic biology approaches offer several strategies for improving microbial tolerance, including redox balancing, membrane engineering, omics-guided technologies, expression of protectants and transcription factors, irrational engineering, cell flocculation, and other novel technologies. Advances in molecular biology, high-throughput sequencing, and artificial intelligence (AI) allow for precise strain modification and efficient industrial production. Developing AI-based computational models to guide synthetic biology efforts and creating large-scale heterologous libraries with automation and high-throughput technologies will be important for future research"
+    },
+    {
+        "title": "Induced proximity in biology and therapeutics",
+        "abstract": "In celebration of Cell Chemical Biology 30th anniversary, the editorial team presents a special issue, “Induced proximity in biology and therapeutics,” to highlight a rapidly growing research area with significant promise for scientific discovery in fundamental biology and the development of innovative therapeutic strategies for modulating the “undruggable” targets. Induced proximity is a powerful strategy for regulating proteins through loss or gain of function. This innovative mechanism employs proximity-inducing molecules to bring proteins or nucleic acids together to modulate the function of a target and the related cellular processes. Proximity-inducing drugs—heterobifunctionals (such as the targeted protein degraders, PROTACs) and molecular glues—have enabled the manipulation of challenging therapeutic targets once considered undruggable. These proximity-inducing modalities have superior pharmacological effects that have opened new opportunities for therapeutic development"
+    },
+    {
+        "title": "4D structural biology The 9th Murnau Conference on structural biology",
+        "abstract": "The data presented at the 9th International Murnau Conference on September 18 21, 2024, the largest recurring structural biology meeting in Central Europe, illustrated the thriving state of the structural biology community. This is largely attributed to the ground-breaking developments over the last decade, which were intensely discussed during the meeting."
+    },
+    {
+        "title": "Tools to investigate the cell surface: Proximity as a central concept in glycoRNA biology",
+        "abstract": "Proximity is a fundamental concept in chemistry and biology, referring to the convergence of molecules to facilitate new molecular interactions or reactions. Hybrid biopolymers like glycosylphosphatidylinositol (GPI)-anchored proteins, ubiquitinated proteins, glycosylated RNAs (glycoRNAs), and RNAylated proteins exemplify this by covalent bonding of moieties that are often orthogonally active. Hybrid molecules like glycoRNAs are localized to new physical spaces, generating new interfaces for biological functions. To fully investigate the compositional and spatial features of molecules like glycoRNAs, flexible genetic and chemical tools that encompass different encoding and targeting biopolymers are required. Here we discuss concepts of molecular proximity and explore newer proximity labeling technologies that facilitate applications in RNA biology, cell surface biology, and the interface therein with a particular focus on glycoRNA biology. We review the advantages and disadvantages of methods pertaining to cell surface RNA identification and provide insights into the vast opportunities for method development in this area."
+    },
+    {
+        "title": "Nuclear speckle biology: At the cross-roads of discovery and functional analysis",
+        "abstract": "Nuclear speckles (NS), typically the second largest membraneless nuclear body, exist in nearly all cells over a wide range of metazoan species, from plants to animals. As reviewed previously, NS correspond to clusters of ribonucleoprotein (RNP) granules which are also enriched in a wide variety of factors involved in all various steps of gene expression, particularly those involving RNA processing and, most notably, RNA splicing [1, 2, 3]. This led early on to suggestions of NS as storage/assembly/modification sites for factors involved in gene expression [2]. Alternatively, early work on NS also described the association of several specific genes with the NS periphery and specific nascent RNAs entering the NS interior, leading to suggestions of NS as a type of gene expression hub for a subset of genes [1]. Over the past 5 years, several orthogonal genome-wide analyses have established the NS periphery as a special nuclear “niche” for thousands of highly expressed genes and specific RNAs. Here we provide a brief overview of nuclear speckle biology and biochemistry and then review the special role NS may play in organizing overall nuclear genome architecture. Finally, we then summarize recent progress made in understanding the functional significance of NS-related genome organization in both health and disease"
+    },
+    {
+        "title": "Students perceptions of social issues in biology courses",
+        "abstract": "Student scientific literacy may be improved by the integration of social issues into biology courses, enabling them to make informed decisions on social issues in the context of their scientific knowledge. Additionally, this may allow students to recognize the connection between science and society. Although there are a number of benefits with having students learn about social issues in biology courses, most undergraduate courses may follow a traditional curriculum, which emphasizes the scientific content without framing it in a social context. Here, we investigated whether undergraduate students have been exposed to social issues in previous biology courses and examined how their perceptions changed before and after taking a biology course that incorporated social issues. In surveys, most students reported having no exposure to social issues in biology courses. Most students, especially females and persons excluded because of their ethnicity or race (PEERs), agreed with the integration of social issues in biology courses before taking the course. Students found reflection essays to be a useful tool in allowing them to think and share their thoughts on social issues as well as relate the course content to their personal lives. These results highlight students interest in learning about social issues from a scientific perspective and how reflection essays may be used to practice applying their knowledge to real-world issues."
+    },
+    {
+        "title": "Connecting single-molecule and superresolution microscopies to cell biology through theoretical modeling",
+        "abstract": "Recent developments of single-molecule and superresolution microscopies reveal novel spatial-temporal features of various cellular processes with unprecedented details, and greatly facilitate the development of theoretical models. In this review, we synthesize our view of how to meaningfully integrate these experimental approaches with theoretical modeling to obtain deeper understanding of the physical mechanisms of cell biology"
+    },
+    {
+        "title": "Open Resources for Biology Education (ORBE): a resource collection",
+        "abstract": "In undergraduate life sciences education, open educational resources (OERs) increase accessibility and retention for students, reduce costs, and save instructors time and effort. Despite increasing awareness and utilization of these resources, OERs are not centrally located, and many undergraduate instructors describe challenges in locating relevant materials for use in their classes. To address this challenge, we have designed a resource collection (referred to as Open Resources for Biology Education, ORBE) with 89 unique resources that are primarily relevant to undergraduate life sciences education. To identify the resources in ORBE, we asked undergraduate life sciences instructors to list what OERs they use in their teaching and curated their responses. Here, we summarize the contents of the ORBE and describe how educators can use this resource as a tool to identify suitable materials to use in their classroom context. By highlighting the breadth of unique resources openly available for undergraduate biology education, we intend for the ORBE to increase instructor awareness and use of OERs"
+    },
+    {
+        "title": "Open quantum systems theory of ultraweak ultraviolet photon emissions: Revisiting Gurwitsch s onion experiment as a prototype for quantum biology",
+        "abstract": "A century ago it was discovered that metabolic processes in living cells emit a spectrum of very low intensity radiation. This was based on observations that radiant energy from proliferating cells can amplify the rate of cell division in other nearby cellular life. Although metabolic radiation is now thoroughly documented in research on ultraweak photon emissions (UPE), the original finding that UPE can enhance mitogenesis remains controversial. This controversy is addressed by establishing a physical basis for phenomenological observations that biological UPE can amplify mitogenesis in living cells. Enhanced mitosis is rationalized as a resonance effect based on open quantum systems theory using Fano and Feshbach s methods. This application of quantum theory to biology has important consequences for understanding health, medicine, and principles of living matter."
+    },
+    {
+        "title": "A new synthetic biology system for investigating the biosynthesis of antibiotics and other secondary metabolites in streptomycetes",
+        "abstract": "We have created a novel synthetic biology expression system allowing easy refactoring of biosynthetic gene clusters (BGCs) as monocistronic transcriptional units. The system is based on a set of plasmids containing a strong kasOp* promoter, RBS and terminators. It allows the cloning of biosynthetic genes into transcriptional units kasOp*-gene(s)-terminator flanked by several rare restriction cloning sites that can be sequentially combined into the artificial BGC in three compatible Streptomyces integration vectors. They allow a simultaneous integration of these BGCs at three different attB sites in the Streptomyces chromosome. The system was validated with biosynthetic genes from two known BGCs for aromatic polyketides landomycin and mithramycin"
+    },
+    {
+        "title": "Advances in yeast synthetic biology for human G protein coupled receptor biology and pharmacology",
+        "abstract": "G protein coupled receptors (GPCRs) are the largest family of transmembrane receptors in humans. Over 800 GPCRs regulate the (patho)biology of every organ, tissue, and cell type. Consequently, GPCRs are the most prominent therapeutic targets in medicine. Although over 30% of current U.S. Food and Drug Administration-approved drugs target GPCR signaling, most receptors remain understudied and therapeutically underutilized. Challenges include an incomplete understanding of GPCR signaling, pharmacology, structural biology, and the multiplicity of endogenous GPCR ligands, in addition to a scarcity of biological and pharmacological tools for elucidating GPCR-mediated cellular processes beyond initial signaling events. Various mammalian, insect, and yeast cell models currently address some of these needs. Here, we review recent advances in yeast synthetic biology that are helping to catalyze new and unexpected conceptual and technical breakthroughs in GPCR-based medicine and biotechnology"
+    },
+    {
+        "title": "Computational Synthetic Biology Enabled through JAX: A Showcase",
+        "abstract": "Mathematical modeling is indispensable in synthetic biology but remains underutilized. Tackling problems, from optimizing gene networks to simulating intracellular dynamics, can be facilitated by the ever-growing body of modeling approaches, be they mechanistic, stochastic, data-driven, or AI-enabled. Thanks to progress in the AI community, robust frameworks have emerged to enable researchers to access complex computational hardware and compilation. Previously, these frameworks focused solely on deep learning, but they have been developed to the point where running different forms of computation is relatively simple, as made possible, notably, by the JAX library. Running simulations at scale on GPUs speeds up research, which compounds enable larger-scale experiments and greater usability of code. As JAX remains underexplored in computational biology, we demonstrate its utility in three example projects ranging from synthetic biology to directed evolution, each with an accompanying demonstrative Jupyter notebook. We hope that these tutorials serve to democratize the flexible scaling, faster run-times, easy GPU portability, and mathematical enhancements (such as automatic differentiation) that JAX brings, all with only minor restructuring of code"
+    },
+    {
+        "title": "Advanced biology students individual conceptions of scientific researchers after participating in biomedically relevant CRE",
+        "abstract": "While undergraduate research has been shown to be a high-impact educational practice, it is logistically impossible for all undergraduate biology majors to have long-term faculty-mentored research experience. Therefore, biology educators and researchers must devise opportunities to engage more students in undergraduate research outside of working directly in their labs. Course-Based Research Experiences (CREs), structured as authentic research experiences, are one such opportunity. In this work, we describe the effects of a CRE with biomedical relevance on students research skills, attitudes toward science, and perceptions of scientific research and scientific researchers. Results demonstrate that students gained experience in independent research skills including designing their own research project, being accountable for part of a project, and writing a research proposal. Students perceptions of scientific research and researchers, assessed by the Draw-A-Researcher Task, did not show changes among the whole group, but individual analysis yielded meaningful results related to students  personal changes in how they perceived research and researchers, including their perception of themselves as researchers. This work demonstrates the substantial impact of CREs on upper-level biology undergraduate and graduate students"
+    },
+    {
+        "title": "Superoxide-responsive quinone methide precursors (QMP-SOs) to study superoxide biology by proximity labeling and chemoproteomics",
+        "abstract": "Superoxide is a reactive oxygen species (ROS) with complex roles in biological systems. It can contribute to the development of serious diseases, from aging to cancers and neurodegenerative disorders. However, it can also serve as a signaling molecule for important life processes. Monitoring superoxide levels and identifying proteins regulated by superoxide are crucial to enhancing our understanding of this growing field of redox biology and signaling. Given the high reactivity and very short lifetime of superoxide compared to other ROS in biological systems, proteins redox-modified by superoxide should be in close proximity to where superoxide is generated endogenously, i.e. superoxide hotspots. This inspires us to develop superoxide-specific quinone methide-based precursors, QMP-SOs, for proximity labeling of proteins within/near superoxide hotspots to image superoxide and profile proteins associated with superoxide biology by chemoproteomics. QMP-SOs specifically react with superoxide to generate an electrophilic quinone methide intermediate, which subsequently reacts with nucleophilic amino acids to induce a covalent tag on proteins, as revealed by liquid chromatography-mass spectrometry (LC-MS) and shotgun MS experiments. The alkyne handle on the covalent tag enables installation of fluorophores onto the tagged proteins for fluorescence imaging of superoxide in cells under oxidative stress. By establishing a chemoproteomics platform, QMP-SO-TMT, we identify DJ-1 and DLDH as proteins associated with superoxide biology in liver cancer cells treated with menadione. This work should provide insights into the crosstalk between essential cellular events and superoxide redox biology, as well as the design principles of quinone methide-based probes to study redox biology through proximity labeling and chemoproteomics. QMP-SOs are molecular probes capable of proximity labeling of proteins in a superoxide-dependent manner. This enables fluorescence imaging of superoxide and profiling proteins associated with superoxide biology by chemoproteomics."
+    },
+    {
+        "title": "Network Visualization in Systems Biology",
+        "abstract": "Networks, as a representation of biological systems, provide an integral view point to systems biology. By representing biological interactions and phenomena as networks, insights about biology can be achieved by analyzing the networks. Visualization of networks opens up avenues to exploration, idea and hypothesis generation, and communication of results that cannot be done when representing networks in textual form or as abstract data structures. Network visualization is thus critical to interpret and dissemination of results in systems biology, yet fraught with technical and design challenges. In this review we give an overview of the current state of the art of network visualization techniques and tools in systems biology for static as well as interactive visualization of networks. We identify an emerging need for visualization of hierarchical network structure, a migration of network visualization tools towards the web and an opportunity to apply ideas for network visualization from other scientific domains to systems biology."
+    },
+    {
+        "title": "Celebrating 30 years of chemical biology: A toast to multidisciplinarity",
+        "abstract": "This month marks the 30th anniversary of the first issue of Cell Chemical Biology (originally Chemistry & Biology). We have been celebrating this significant milestone throughout the year by sharing various special issues with many landmark developments in chemical biology and its impact on biology and biomedicine. We have highlighted some of the most exciting scientific advances of the field, showcasing how chemical biology has enabled groundbreaking discoveries, enriched diverse areas of biology, advanced our understanding of disease mechanisms, and facilitated clinical applications. We would like to thank all the authors and reviewers who have contributed to these special issues, as well as the founding editors, former associate editors, and past and present board members. On this very special occasion, we have been reflecting on the multidisciplinary nature of chemical biology and its significant evolution, alongside the journal, since its inception. We are excited about what lies ahead for the field and are eager to offer a glimpse of the evolving scope and direction of Cell Chemical Biology. In April 1994, the founding editors Stuart Schreiber and K.C. Nicolaou announced the launch of the journal Chemistry & Biology, with the aim of providing “a forum for research papers that are of interest to both chemists and biologists” and to lower “the language barriers between these two fields, which have so much to say to each other.” Together with dedicated associate editors Gerald Joyce, Patrick Baeuerle, and Gregory Verdine, and managing editor Rebecca Ward, it was the first journal focused on chemistry-inspired research addressing biological problems. At that time, organic chemists were gaining access to tool compounds for application in the mechanistic dissection or natural product biosynthesis, while molecular biologists were searching for molecules to target cellular pathways and uncharacterized biological processes. Both groups needed a common forum to disseminate their work for mutual benefit. Issue zero of the journal exemplified how chemists, like Stephen Lippard and Peter Schultz, and biologists, like Joan Brugge and Gisela Storz, could come together, laying a foundation for multidisciplinary collaborative work. The close collaboration between chemists and biologists in designing small molecules to manipulate biological systems led to the emergence of a new scientific discipline, now known as chemical biology. The subsequent decades involved direct collaborations of biologists with chemists and clinicians for drug discovery efforts, which clearly illustrated that chemical biology is a discipline that straddles the “chemistry-biology-medicine continuum."
+    },
+    {
+        "title": "Integrating bacterial molecular genetics with chemical biology for renewed antibacterial drug discovery",
+        "abstract": "The application of dyes to understanding the aetiology of infection inspired antimicrobial chemotherapy and the first wave of antibacterial drugs. The second wave of antibacterial drug discovery was driven by rapid discovery of natural products, now making up 69% of current antibacterial drugs. But now with the most prevalent natural products already discovered, ∼107 new soil-dwelling bacterial species must be screened to discover one new class of natural product. Therefore, instead of a third wave of antibacterial drug discovery, there is now a discovery bottleneck. Unlike natural products which are curated by billions of years of microbial antagonism, the vast synthetic chemical space still requires artificial curation through the therapeutics science of antibacterial drugs — a systematic understanding of how small molecules interact with bacterial physiology, effect desired phenotypes, and benefit the host. Bacterial molecular genetics can elucidate pathogen biology relevant to therapeutics development, but it can also be applied directly to understanding mechanisms and liabilities of new chemical agents with new mechanisms of action. Therefore, the next phase of antibacterial drug discovery could be enabled by integrating chemical expertise with systematic dissection of bacterial infection biology. Facing the ambitious endeavour to find new molecules from nature or new-to-nature which cure bacterial infections, the capabilities furnished by modern chemical biology and molecular genetics can be applied to prospecting for chemical modulators of new targets which circumvent prevalent resistance mechanisms"
+    },
+    {
+        "title": "Spatial omics advances for in situ RNA biology",
+        "abstract": "Spatial regulation of RNA plays a critical role in gene expression regulation and cellular function. Understanding spatially resolved RNA dynamics and translation is vital for bringing new insights into biological processes such as embryonic development, neurobiology, and disease pathology. This review explores past studies in subcellular, cellular, and tissue-level spatial RNA biology driven by diverse methodologies, ranging from cell fractionation, in situ and proximity labeling, imaging, spatially indexed next-generation sequencing (NGS) approaches, and spatially informed computational modeling. Particularly, recent advances have been made for near-genome-scale profiling of RNA and multimodal biomolecules at high spatial resolution. These methods enabled new discoveries into RNA s spatiotemporal kinetics, RNA processing, translation status, and RNA-protein interactions in cells and tissues. The evolving landscape of experimental and computational strategies reveals the complexity and heterogeneity of spatial RNA biology with subcellular resolution, heralding new avenues for RNA biology research"
+    },
+    {
+        "title": "The evolution of developmental biology through conceptual and technological revolutions",
+        "abstract": "Developmental biology—the study of the processes by which cells, tissues, and organisms develop and change over time—has entered a new golden age. After the molecular genetics revolution in the 80s and 90s and the diversification of the field in the early 21st century, we have entered a phase when powerful technologies provide new approaches and open unexplored avenues. Progress in the field has been accelerated by advances in genomics, imaging, engineering, and computational biology and by emerging model systems ranging from tardigrades to organoids. We summarize how revolutionary technologies have led to remarkable progress in understanding animal development. We describe how classic questions in gene regulation, pattern formation, morphogenesis, organogenesis, and stem cell biology are being revisited. We discuss the connections of development with evolution, self-organization, metabolism, time, and ecology. We speculate how developmental biology might evolve in an era of synthetic biology, artificial intelligence, and human engineering"
+    },
+    {
+        "title": "A Synthetic Biology Approach to Transgene Expression in Insects",
+        "abstract": "The ability to control gene expression is pivotal in genetic engineering and synthetic biology. However, in most nonmodel and pest insect species, empirical evidence for predictable modulation of gene expression levels is lacking. This knowledge gap is critical for genetic control systems, particularly in mosquitoes, where transgenic methods offer novel routes for pest control. Commonly, the choice of RNA polymerase II promoter (Pol II) is the primary method for controlling gene expression, but the options are limited. To address this, we developed a systematic approach to characterize modifications in translation initiation sequences (TIS) and 3′ untranslated regions (UTR) of transgenes, enabling the creation of a toolbox for gene expression modulation in mosquitoes and potentially other insects. The approach demonstrated highly predictable gene expression changes across various cell lines and 5′ regulatory sequences, representing a significant advancement in mosquito synthetic biology gene expression tools"
+    },
+    {
+        "title": "The spread of chemical biology into chromatin",
+        "abstract": "Understanding the molecular mechanisms underlying chromatin regulation, the complexity of which seems to deepen with each passing year, requires a multidisciplinary approach. While many different tools have been brought to bear in this area, here we focus on those that have emerged from the field of chemical biology. We discuss methods that allow the generation of what is now commonly referred to as “designer chromatin,” a term that was coined by the late C. David (Dave) Allis. Among Dave s many talents was a remarkable ability to “brand” a nascent area (or concept) such that it was immediately relatable to the broader field. This also had the entirely intentional effect of drawing more people into the area, something that as this brief review attempts to convey has certainly happened when it comes to getting chemists involved in chromatin research"
+    },
+    {
+        "title": "Emerging role of endogenous peptides encoded by non-coding RNAs in cancer biology",
+        "abstract": "Non-coding RNAs have long been recognized for their regulatory roles in various cellular processes, including cancer development and progression. Recent advancements have shed light on a novel aspect of non-coding RNA biology, revealing their ability to encode endogenous peptides also named micropeptides or microprotein through short open reading frames (sORFs). These small proteins play crucial roles in oncogenic processes, acting as either tumour suppressors or tumour promoters, and hold enormous potential as biomarkers for early diagnosis of cancer and as therapeutic targets. This comprehensive review highlights the state of the art on peptides encoded by long non-coding RNAs (lncRNAs), microRNAs (miRNAs), and circular RNAs (circRNAs), elucidating their regulatory functions and implications in different cancer types, including breast cancer, hepatocellular carcinoma and colorectal cancer. The review also discusses challenges and future directions in the exploration of these emerging players in cancer biology, emphasizing the importance of further investigation for their clinical translation in diagnosis and therapy"
+    },
+    {
+        "title": "Recent advances in chemical biology tools for protein and RNA profiling of extracellular vesicles",
+        "abstract": "Extracellular vesicles (EVs) are nano-sized vesicles secreted by cells that contain various cellular components such as proteins, nucleic acids, and lipids from the parent cell. EVs are abundant in body fluids and can serve as circulating biomarkers for a variety of diseases or as a regulator of various biological processes. Considering these characteristics of EVs, analysis of the EV cargo has been spotlighted for disease diagnosis or to understand biological processes in biomedical research. Over the past decade, technologies for rapid and sensitive analysis of EVs in biofluids have evolved, but detection and isolation of targeted EVs in complex body fluids is still challenging due to the unique physical and biological properties of EVs. Recent advances in chemical biology provide new opportunities for efficient profiling of the molecular contents of EVs. A myriad of chemical biology tools have been harnessed to enhance the analytical performance of conventional assays for better understanding of EV biology. In this review, we will discuss the improvements that have been achieved using chemical biology tools. This review provides an overview of how chemical biology tools have been applied for efficient EV isolation, the increment of EV detection sensitivity, multiplexed analysis of EV protein, metabolic labeling of EVs, and drug occupancy of EV proteins"
+    },
+    {
+        "title": "The role of RNA binding proteins in cancer biology: A focus on FMRP",
+        "abstract": "RNA-binding proteins (RBPs) act as crucial regulators of gene expression within cells, exerting precise control over processes such as RNA splicing, transport, localization, stability, and translation through their specific binding to RNA molecules. The diversity and complexity of RBPs are particularly significant in cancer biology, as they directly impact a multitude of RNA metabolic events closely associated with tumor initiation and progression. The fragile X mental retardation protein (FMRP), as a member of the RBP family, is central to the neurodevelopmental disorder fragile X syndrome and increasingly recognized in the modulation of cancer biology through its influence on RNA metabolism. The protein s versatility, stemming from its diverse RNA-binding domains, enables it to govern a wide array of transcript processing events. Modifications in FMRP s expression or localization have been associated with the regulation of mRNAs linked to various processes pertinent to cancer, including tumor proliferation, metastasis, epithelial-mesenchymal transition, cellular senescence, chemotherapy/radiotherapy resistance, and immunotherapy evasion. In this review, we emphasize recent findings and analyses that suggest contrasting functions of this protein family in tumorigenesis. Our knowledge of the proteins that are regulated by FMRP is rapidly growing, and this has led to the identification of multiple targets for therapeutic intervention of cancer, some of which have already moved into clinical trials or clinical practice"
+    },
+    {
+        "title": "Graduate teaching assistants  beliefs and practices regarding mentoring in the context of an online introductory biology CURE: an exploratory study",
+        "abstract": "Course-based undergraduate research experiences (CUREs) have been identified as a promising approach to engage large numbers of students in discovery-based investigations in the biological sciences. As the prevalence of CUREs continues to increase nationwide, the role of graduate teaching assistants (TAs) in facilitating these courses has simultaneously grown. In addition to serving as instructors of CUREs, previous research suggests that educators—including TAs—must also adopt additional roles, including that of a mentor. However, few studies have explicitly examined CURE TAs  beliefs and practices regarding mentorship. To address this need, we conducted an exploratory, concurrent mixed methods study to better understand TAs  self-reported mentoring skills levels and their experiences acting as potential mentors in the context of an online introductory biology SEA-PHAGES CURE. Results indicate that TAs (N = 12) believed themselves most skilled in areas related to listening and communication, building rapport with students, and encouraging independence with respect to student research projects. Analysis of open-ended survey data further demonstrated that the overwhelming majority of TAs (n = 10) considered themselves to be mentors, citing a diversity of rationales reflective of both psychosocial and instrumental forms of mentoring support. Collectively, these outcomes contribute to a growing body of literature on the nature and level of involvement of TAs within CURE learning environments, particularly with respect to their posited role as mentors"
+    },
+    {
+        "title": "Research progress on utilization and molecular biology of blackberry",
+        "abstract": "Blackberry (Rubus spp.) is a berry fruit of the Rosaceae family, which has the advantages of strong ecological adaptability, easy cultivation, early yield and good economic benefits. The fresh fruits are soft and juicy, and mature fruits are predominantly deep purple-black, rich in pigments, and have mellow and delicious flavor. Relying on the abundant nutritional contents and functional substances such as polyphenols, flavonoids and anthocyanins, they have received widespread attention and popularity in Europe, the United States and other regions. Therefore, this article aims to summarize the origin and development of blackberry, as well as relevant advances in its nutritional composition, medicinal value, processing and utilization. In addition, research progress on the molecular biology of blackberry is covered. This article also provides in-depth insights and prospects on problems arising from blackberry research and utilization as well as future development trends, so as to provide an effective reference for the sustainable development and utilization of the blackberry industry."
+    },
+    {
+        "title": "Employing synthetic biology to expand antibiotic discovery",
+        "abstract": "Antimicrobial-resistant (AMR) bacterial pathogens are a continually growing threat as our methods for combating these infections continue to be overcome by the evolution of resistance mechanisms. Recent therapeutic methods have not staved off the concern of AMR infections, so continued research focuses on new ways of identifying small molecules to treat AMR pathogens. While chemical modification of existing antibiotics is possible, there has been rapid development of resistance by pathogens that were initially susceptible to these compounds. Synthetic biology is becoming a key strategy in trying to predict and induce novel, natural antibiotics. Advances in cloning and mutagenesis techniques applied through a synthetic biology lens can help characterize the native regulation of antibiotic biosynthetic gene clusters (BGCs) to identify potential modifications leading to more potent antibiotic activity. Additionally, many cryptic antibiotic BGCs are derived from non-ribosomal peptide synthase (NRPS) and polyketide synthase (PKS) biosynthetic pathways; complex, clustered genetic sequences that give rise to amino acid-derived natural products. Synthetic biology can be applied to modify and metabolically engineer these enzyme-based systems to promote rapid and sustainable production of natural products and their variants. This review will focus on recent advances related to synthetic biology as applied to genetic pathway characterization and identification of antibiotics from naturally occurring BGCs. Specifically, we will summarize recent efforts to characterize BGCs via general genomic mutagenesis, endogenous gene expression, and heterologous gene expression"
+    },
+    {
+        "title": "Transfer-bound community college students biology identity and perception of teaching",
+        "abstract": "Community colleges are frequently an affordable, accessible entrance to a Science, Technology, Engineering, and Mathematics (STEM) education and career, but the transition from a 2-year program to a 4-year institution can be tumultuous. In this mixed-methods study, we explore the experiences of transfer and prospective transfer students. Through surveys and interviews, we identify the challenges faced by and the supports desired by biology transfer students. We describe how community college students perceive their introductory biology courses, and we compare the biology identity and self-efficacy of these students to peers at a 4-year institution. Students expressed uncertainty about what to expect from the transfer experience, and they benefitted from interventions that made the university experience more concrete or clarified their expectations. We found that community college students are just as interested in biology as peers at a 4-year university, but they are significantly less likely to believe that others recognize them as “biology people” and report less self-efficacy regarding biology courses. Students felt particularly well-prepared for transfer after community college biology courses they described as “rigorous” and “demanding,” especially because students expressed that the community college environment helped support them through the challenges of higher education"
+    },
+    {
+        "title": "Applying Beer Law in the undergraduate cell biology laboratory: examining the mathematical relationship between optical density, cell concentration, and cell size using budding yeast",
+        "abstract": "Undergraduate students majoring in the life sciences benefit from experience with data analyses that connect mathematical calculations to the biological systems they are studying. Monitoring the optical density and cell number of Saccharomyces cerevisiae liquid cultures allows students to gain quantitative experience generating standard curves and trendlines that capture the relationship between optical density and cell concentration for a given S. cerevisiae strain. Data comparisons across multiple strains can yield insights into the biophysical properties of cells that drive light absorbance and scattering. In this Tips and Tools article, we share a laboratory module that allows students to experience cell biology tools, laboratory measurements, and data analysis to determine the mathematical relationship between optical density and cell concentration in liquid microbial cultures. This module could be integrated into undergraduate classes ranging from general biology to upper-level cell biology or microbiology and can be a starting point for more complex investigations of microbial growth"
+    },
+    {
+        "title": "30th anniversary celebrations: Inspiring innovation in biology and medicine",
+        "abstract": "Cell Chemical Biology is celebrating its 30th anniversary in 2024. To begin our year-long celebrations, we would like to thank our authors, reviewers, readers, founding editors, past associate editors, editorial/advisory board members, and all our journal staff past and present, as we have all contributed to the field of chemical biology for the benefit of science and society. During this momentous occasion, we have been reflecting about the meaning of chemical biology, how the field has progressed and continues to advance, and how we can serve our broad community, from basic and translational researchers to clinicians. As a discipline, chemical biology is defined broadly as the research field at the intersection of chemistry and biology, with principles drawn from both areas to enable mutual progress. Though the phrase “chemical biology” was not coined until a few decades ago, the field is likely as old as the two disciplines of its namesake. Many of the key discoveries in each, such as the antibiotic revolution, can be traced to developments in the other discipline. As a field, chemical biology didn t solidify until the 1990s, with primarily organic chemists applying chemical thinking to understanding biology. With the technological revolutions over the past few decades, the tools and techniques needed for a chemical view of biological systems have become increasingly attainable and have enabled greater integration of chemistry and biology. As the first dedicated journal for chemical biology research, Cell Chemical Biology (originally Chemistry & Biology) has been with scientists in our community through these technical innovations, providing a forum to present research in this unique discipline that bridges the gap between chemists and biologists"
+    },
+    {
+        "title": "A high-throughput structural system biology approach to increase structure representation of proteins from Clostridioides difficile",
+        "abstract": "Clostridioides difficile causes life-threatening gastrointestinal infections. It is a high-risk pathogen due to a lack of effective treatments, antimicrobial resistance, and a poorly conserved genomic core. Herein, we report 30 X-ray structures from a structure genomics pipeline spanning 13 years, representing 10.2% of the X-ray structures for this important pathogen"
+    },
+    {
+        "title": "Navigating the Frontier of Synthetic Biology: An AI-Driven Analytics Platform for Exploring Research Trends and Relationships",
+        "abstract": "The field of synthetic biology has experienced rapid growth in recent years, leading to an overwhelming amount of literature that can make it difficult to comprehend the scope and trends of the discipline. In this study, we employ topic modeling to comprehensively map research topics within synthetic biology, revealing subtopics and their relationships, as well as trends over time. We utilize metadata to identify the most significant journals and countries in the field and discuss potential policy impact on the research output. In addition, we investigate co-authorship networks to analyze collaborations among authors, institutions, and countries. We believe that our findings could serve as a valuable resource for gaining a deeper understanding of synthetic biology and provide a foundation for analyzing other disciplines"
+    },
+    {
+        "title": "Advances in euglenoid genomics: unravelling the fascinating biology of a complex clade",
+        "abstract": "Euglenids have long been studied due to their unique physiology and versatile metabolism, providing underpinnings for much of our understanding of photosynthesis and biochemistry, and a growing opportunity in biotechnology. Until recently there has been a lack of genetic studies due to their large and complex genomes, but recently new technologies have begun to unveil their genetic capabilities. Whilst much research has focused on the model organism Euglena gracilis, other members of the euglenids have now started to receive due attention. Currently only poor nuclear genome assemblies of E. gracilis and Rhabdomonas costata are available, but there are many more plastid genome sequences and an increasing number of transcriptomes. As more assemblies become available, there are great opportunities to understand the fundamental biology of these organisms and to exploit them for biotechnology"
+    },
+    {
+        "title": "Sourcing DNA parts for synthetic biology applications in plants",
+        "abstract": "Transgenic approaches are now standard in plant biology research aiming to characterize gene function or improve crops. Recent advances in DNA synthesis and assembly make constructing transgenes a routine task. What remains nontrivial is the selection of the DNA parts and optimization of the transgene design. Early career researchers and seasoned molecular biologists alike often face difficult decisions on what promoter or terminator to use, what tag to include, and where to place it. This review aims to inform about the current approaches being employed to identify and characterize DNA parts with the desired functionalities and give general advice on basic construct design. Furthermore, we hope to share the excitement about new experimental and computational tools being developed in this field"
+    },
+    {
+        "title": "Plant microbiome dynamics through spatial metatranscriptomics and network biology",
+        "abstract": "Climate change threatens global agriculture, impacting plant health and crop yield, while plant microbiomes offer potential solutions to enhance resilience. In this forum, we discuss the prospects of single cell multiome and network science in understanding intricate plant–microbe interactions, providing insights for sustainable agriculture and improved crop productivity for global food security"
+    },
+    {
+        "title": "Harnessing microbial heterogeneity for improved biosynthesis fueled by synthetic biology",
+        "abstract": "Metabolic engineering-driven microbial cell factories have made great progress in the efficient bioproduction of biochemical and recombinant proteins. However, the low efficiency and robustness of microbial cell factories limit their industrial applications. Harnessing microbial heterogeneity contributes to solving this. In this review, the origins of microbial heterogeneity and its effects on biosynthesis are first summarized. Synthetic biology-driven tools and strategies that can be used to improve biosynthesis by increasing and reducing microbial heterogeneity are then systematically summarized. Next, novel single-cell technologies available for unraveling microbial heterogeneity and facilitating heterogeneity regulation are discussed. Furthermore, a combined workflow of increasing genetic heterogeneity in the strain-building step to help in screening highly productive strains - reducing heterogeneity in the production process to obtain highly robust strains (IHP-RHR) facilitated by single-cell technologies was proposed to obtain highly productive and robust strains by harnessing microbial heterogeneity. Finally, the prospects and future challenges are discussed"
+    },
+    {
+        "title": "Systems Biology Resources",
+        "abstract": "Systems Biology is a study of dry complex systems and wet biology. Last several years, systems biology has grown into leaps and bounds wherein it encountered understanding the mutations existing in the environment, genes lost and found, proteins evolving and devoluting, traits adapting and unadapting. With two important facets of systems biology, viz. top-down and bottom-up, there have been many standardizations, computational models that were developed. In this chapter, we describe essential tools, resources of systems biology models"
+    },
+    {
+        "title": "1: From What is a wave to What is life?: the structural biology boom",
+        "abstract": "This introductory chapter gives a brief historical account of how the physics revolution at the beginning of the 20th century facilitated breakthroughs in biology and how structural biology contributed to the advancement of molecular biology. At the end of the chapter is a reflection on the unique perspective of this book"
+    },
+    {
+        "title": "Production of food flavor and color by synthetic biology",
+        "abstract": "Flavors and colors play a vital role in the food industry. Consumers now lean toward natural flavors and colors due to their nutritional and medicinal benefits. However, conventional extraction methods from natural sources struggle to meet growing demands. Synthetic biology is a promising emerging technology with the potential to revolutionize the status quo. While challenges such as low titers hinder large-scale production for most products, certain natural flavors and colors are already achievable in significant quantities. This review encapsulates the past 5 years of research progress in utilizing synthetic biology for some food flavor and color generation. It provides a valuable reference for researchers to produce food flavor and color by synthetic biology"
+    },
+    {
+        "title": "Undergraduate-level biology students  application of central dogma to understand COVID mRNA vaccines",
+        "abstract": ""
+    },
+    {
+        "title": "Systematic review on marine carbon source-mannitol: Applications in synthetic biology",
+        "abstract": ""
+    },
+    {
+        "title": "Mitochondria in biology and medicine   2023",
+        "abstract": ""
+    },
+    {
+        "title": "Toward a foundation model of causal cell and tissue biology with a Perturbation Cell and Tissue Atlas",
+        "abstract": ""
+    },
+    {
+        "title": "Immune senescence: A key player in cancer biology",
+        "abstract": ""
+    },
+    {
+        "title": "Chatbot responses suggest that hypothetical biology questions are harder than realistic ones",
+        "abstract": ""
+    },
+    {
+        "title": "Behavioral assessment of soft skill development in a highly structured pre-health biology course for undergraduates",
+        "abstract": ""
+    },
+    {
+        "title": "What is chemical biology?",
+        "abstract": ""
+    },
+    {
+        "title": "Understanding the emerging potential of synthetic biology for food science: Achievements, applications and safety considerations",
+        "abstract": ""
+    },
+    {
+        "title": "The chorioallantoic membrane (CAM) model: From its origins in developmental biology to its role in cancer research",
+        "abstract": ""
+    },
+    {
+        "title": "Ten Years of the Synthetic Biology Summer Course at Cold Spring Harbor Laboratory",
+        "abstract": ""
+    },
+    {
+        "title": "Synthetic Biology",
+        "abstract": ""
+    },
+    {
+        "title": "Making the connection: How membrane contact sites have changed our view of organelle biology",
+        "abstract": ""
+    },
+    {
+        "title": "Advancing in vivo reprogramming with synthetic biology",
+        "abstract": ""
+    },
+    {
+        "title": "Transforming drug development with synthetic biology and AI",
+        "abstract": ""
+    },
+    {
+        "title": "Starships: a new frontier for fungal biology",
+        "abstract": ""
+    },
+    {
+        "title": "Where physics and biology meet",
+        "abstract": ""
+    },
+    {
+        "title": "Validating an instrument for measuring community cultural wealth with biology majors at a Hispanic-serving institution",
+        "abstract": ""
+    },
+    {
+        "title": "Synthetic biology for Taxol biosynthesis and sustainable production",
+        "abstract": ""
+    },
+    {
+        "title": "Accelerating extracellular vesicle research and biotechnological applications using synthetic biology approaches",
+        "abstract": ""
+    },
+    {
+        "title": "Experimental evolution for cell biology",
+        "abstract": ""
+    },
+    {
+        "title": "Chemical biology tools for protein labelling: insights into cell cell communication",
+        "abstract": ""
+    },
+    {
+        "title": "Understanding the cell: Future views of structural biology",
+        "abstract": ""
+    },
+    {
+        "title": "Editorial: Fungal Biology Reviews highlights novel books on mycology",
+        "abstract": ""
+    },
+    {
+        "title": "Pollination Biology and Secondary Pollinators in Seven North American Aquilegia Species",
+        "abstract": ""
+    },
+    {
+        "title": "Plant synthetic biology as a tool to help eliminate hidden hunger",
+        "abstract": ""
+    },
+    {
+        "title": "Cell-free synthetic biology: Navigating the new frontiers of biomanufacturing and biological engineering",
+        "abstract": ""
+    },
+    {
+        "title": "Visualization of giant Mimivirus in a movie for biology classrooms",
+        "abstract": ""
+    },
+    {
+        "title": "POMBOX: A Fission Yeast Cloning Toolkit for Molecular and Synthetic Biology",
+        "abstract": ""
+    },
+    {
+        "title": "Organizational change of synthetic biology research: Emerging initiatives advancing a bottom-up approach",
+        "abstract": ""
+    },
+    {
+        "title": "Synthetic biology advances towards a bio-based society in the era of artificial intelligence",
+        "abstract": ""
+    },
+    {
+        "title": "Spatial oncology: Translating contextual biology to the clinic",
+        "abstract": ""
+    },
+    {
+        "title": "Illuminating anions in biology with genetically encoded fluorescent biosensors",
+        "abstract": ""
+    },
+    {
+        "title": "Advancing microbial production through artificial intelligence-aided biology",
+        "abstract": ""
+    },
+    {
+        "title": "Synthetic Biology of Natural Products Engineering: Recent Advances Across the Discover Design Build Test Learn Cycle",
+        "abstract": ""
+    },
+    {
+        "title": "Recent advances in genome annotation and synthetic biology for the development of microbial chassis",
+        "abstract": ""
+    },
+    {
+        "title": "A mechanistic systems biology model of brain microvascular endothelial cell signaling reveals dynamic pathway-based therapeutic targets for brain ischemia",
+        "abstract": ""
+    },
+    {
+        "title": "Advancing high-throughput screening systems for synthetic biology and biofoundry",
+        "abstract": ""
+    },
+    {
+        "title": "Large language models in plant biology",
+        "abstract": ""
+    },
+    {
+        "title": "Cryo-focused ion beam for in situ structural biology: State of the art, challenges, and perspectives",
+        "abstract": ""
+    },
+    {
+        "title": "Molecular biology: The fundamental science fueling innovation",
+        "abstract": ""
+    },
+    {
+        "title": "Promoting student interest in plant biology through an inquiry-based module exploring plant circadian rhythm, gene expression, and defense against insects",
+        "abstract": ""
+    },
+    {
+        "title": "Killer yeasts: expanding frontiers in the age of synthetic biology",
+        "abstract": ""
+    },
+    {
+        "title": "Harnessing systems biology approach for characterization of carotenoid biosynthesis pathways in microalgae",
+        "abstract": ""
+    },
+    {
+        "title": "Responsible and ethical conduct of research (RECR) diagnostic survey using case scenarios from biology course-based undergraduate research experiences (CUREs)",
+        "abstract": ""
+    },
+    {
+        "title": "Utility of Brownian dynamics simulations in chemistry and biology: A comprehensive review",
+        "abstract": ""
+    },
+    {
+        "title": "Bonds and bytes: The odyssey of structural biology",
+        "abstract": ""
+    },
+    {
+        "title": "Beyond the Organism versus Machine Dichotomy: A Review of Ethical Concerns in Synthetic Biology",
+        "abstract": ""
+    },
+    {
+        "title": "The role of nonesterified fatty acids in cancer biology: Focus on tryptophan and related metabolism",
+        "abstract": ""
+    },
+    {
+        "title": "Redox Biology and Medicine: Foundation for Exposome Biology and Medicine",
+        "abstract": ""
+    },
+    {
+        "title": "Photochemistry in Medicinal Chemistry and Chemical Biology",
+        "abstract": ""
+    },
+    {
+        "title": "How super is supersulfide?: Reconsidering persulfide reactivity in cellular biology",
+        "abstract": ""
+    },
+    {
+        "title": "Generative AI agents are transforming biology research: high resolution functional genome annotation for multiscale understanding of life",
+        "abstract": ""
+    },
+    {
+        "title": "How to produce an effective manuscript: Further perspectives from the Editors-in-Chief of Soil Biology and Biochemistry",
+        "abstract": ""
+    },
+    {
+        "title": "Coupling chemistry and biology for the synthesis of advanced bioproducts",
+        "abstract": ""
+    },
+    {
+        "title": "Advances in synthetic biology toolboxes paving the way for mechanistic understanding and strain engineering of gut commensal Bacteroides spp. and Clostridium spp.",
+        "abstract": ""
+    },
+    {
+        "title": "Targeting non-histone methylation in gastrointestinal cancers: From biology to clinic",
+        "abstract": ""
+    },
+    {
+        "title": "The Impact of Nanobodies on G Protein Coupled Receptor Structural Biology and Their Potential as Therapeutic Agents",
+        "abstract": ""
+    },
+    {
+        "title": "Spatially exploring RNA biology in archival formalin-fixed paraffin-embedded tissues",
+        "abstract": ""
+    },
+    {
+        "title": "Synthetic biology approaches for enhancing safety and specificity of CAR-T cell therapies for solid cancers",
+        "abstract": ""
+    },
+    {
+        "title": "Prognostic significance and multidimensional roles of interferon regulatory factors in cancer biology: A comprehensive analysis",
+        "abstract": ""
+    },
+    {
+        "title": "Structural Biology of Innate Immune Recognition",
+        "abstract": ""
+    },
+    {
+        "title": "Targeting solid tumor antigens with chimeric receptors: cancer biology meets synthetic immunology",
+        "abstract": ""
+    },
+    {
+        "title": "Floral biology, pollination biology, and breeding mechanisms reveal challenges to the restoration of Buchanania lanzan, a vulnerable plant species",
+        "abstract": ""
+    },
+    {
+        "title": "Benefits of Combining Molecular Biology and Controlled Human Infection Model Methodologies in Advancing Vaccine Development",
+        "abstract": ""
+    },
+    {
+        "title": "Discovery of two new species of cobia (Pisces; Rachycentridae) inhabiting the makran coast of the northern Arabian Sea with notes on their biology and ecology",
+        "abstract": ""
+    },
+    {
+        "title": "Metabolomics and proteomics in pheochromocytoma and paraganglioma: Translating biochemistry and biology to bedside",
+        "abstract": ""
+    },
+    {
+        "title": "Incorporating art into a biology course: a student-curated art exhibition about COVID-19",
+        "abstract": ""
+    },
+    {
+        "title": "Generative models of morphogenesis in developmental biology",
+        "abstract": ""
+    },
+    {
+        "title": "In situ studies of membrane biology by cryo-electron tomography",
+        "abstract": ""
+    },
+    {
+        "title": "Mammalian START-like phosphatidylinositol transfer proteins Physiological perspectives and roles in cancer biology",
+        "abstract": ""
+    },
+    {
+        "title": "Mitigating generative AI inaccuracies in soil biology",
+        "abstract": ""
+    },
+    {
+        "title": "At-Home, Cell-Free Synthetic Biology Education Modules for Transcriptional Regulation and Environmental Water Quality Monitoring",
+        "abstract": ""
+    },
+    {
+        "title": "Boosting student performance with inclusive writing-to-learn assignments through graphic organizers in large enrollment undergraduate biology courses",
+        "abstract": ""
+    },
+    {
+        "title": "Biomolecular condensates: A new lens on cancer biology",
+        "abstract": ""
+    },
+    {
+        "title": "Editorial: Fungal Biology Reviews as a repository of valuable scientific photographs and graphics",
+        "abstract": ""
+    },
+    {
+        "title": "Biodegradation of polystyrene and systems biology-based approaches to the development of new biocatalysts for plastic degradation",
+        "abstract": ""
+    },
+    {
+        "title": "Integrating cellular electron microscopy with multimodal data to explore biology across space and time",
+        "abstract": ""
+    },
+    {
+        "title": "Synthetic biology tools for environmental protection",
+        "abstract": ""
+    },
+    {
+        "title": "Basic biology, ecology, and biotechnology of euglenids",
+        "abstract": ""
+    },
+    {
+        "title": "IL-23 regulation of myeloid cell biology during inflammation",
+        "abstract": ""
+    },
+    {
+        "title": "Designing RNA switches for synthetic biology using inverse-RNA-folding",
+        "abstract": ""
+    },
+    {
+        "title": "David L. Stocum (1939 2023): Authority in regenerative biology, passionate educator, visionary administrative leader, and cherished colleague and friend",
+        "abstract": ""
+    },
+    {
+        "title": "Network for knowledge Organization (NEKO): An AI knowledge mining workflow for synthetic biology research",
+        "abstract": ""
+    },
+    {
+        "title": "Network biology: A promising approach for drug target identification against neurodevelopmental disorders",
+        "abstract": ""
+    },
+    {
+        "title": "Introduction to   Research that Transformed Developmental Biology ",
+        "abstract": ""
+    },
+    {
+        "title": "A customizable series of microbiology lab activities exploring a foodborne outbreak to enhance student recruitment to a biology program",
+        "abstract": ""
+    },
+    {
+        "title": "Physical Laboratory Automation in Synthetic Biology",
+        "abstract": ""
+    },
+    {
+        "title": "How advancements in molecular biology impact education and training",
+        "abstract": ""
+    },
+    {
+        "title": "Integrating Deep Learning and Synthetic Biology: A Co-Design Approach for Enhancing Gene Expression via N Terminal Coding Sequences",
+        "abstract": ""
+    },
+    {
+        "title": "Challenges, advances, and opportunities in RNA structural biology by Cryo-EM",
+        "abstract": ""
+    },
+    {
+        "title": "Inteins: A Swiss army knife for synthetic biology",
+        "abstract": ""
+    },
+    {
+        "title": "Exploring the biology of ctDNA release in colorectal cancer",
+        "abstract": ""
+    },
+    {
+        "title": "Sustainable production of porphyrins through synthetic biology",
+        "abstract": ""
+    },
+    {
+        "title": "Biology in the 21st century: Natural selection is cognitive selection",
+        "abstract": ""
+    },
+    {
+        "title": "Unveiling the veil of RNA binding protein phase separation in cancer biology and therapy",
+        "abstract": ""
+    },
+    {
+        "title": "Single cell multiomics systems biology for molecular toxicity",
+        "abstract": ""
+    },
+    {
+        "title": "How has the AI boom impacted algorithmic biology?",
+        "abstract": ""
+    },
+    {
+        "title": "Chapter 9: Using systems biology to exploit the resources/natural reservoirs for biofuel production",
+        "abstract": ""
+    },
+    {
+        "title": "An Equity-Focused Redesign of an Introductory Organismal Biology Lab Course To Develop Foundational Scientific Practices",
+        "abstract": ""
+    },
+    {
+        "title": "From sequence to function and back   High-throughput sequence-function mapping in synthetic biology",
+        "abstract": ""
+    },
+    {
+        "title": "Telomere biology and ribosome biogenesis: structural and functional interconnections",
+        "abstract": ""
+    },
+    {
+        "title": "Current knowledge in the biology of gametes and embryos from Carnivora",
+        "abstract": ""
+    },
+    {
+        "title": "Unlocking the secrets of the microbiome: exploring the dynamic microbial interplay with humans through metabolomics and their manipulation for synthetic biology applications",
+        "abstract": ""
+    },
+    {
+        "title": "An optimized artificial blood feeding assay to study tick cuticle biology",
+        "abstract": ""
+    },
+    {
+        "title": "Harnessing synthetic biology to enhance ocean health",
+        "abstract": ""
+    },
+    {
+        "title": "Media representations of synthetic biology in China",
+        "abstract": ""
+    },
+    {
+        "title": "Decoding Chromatin Ubiquitylation: A Chemical Biology Perspective",
+        "abstract": ""
+    },
+    {
+        "title": "Developmental and stem cell biology s bright future",
+        "abstract": ""
+    },
+    {
+        "title": "Advances in the Application of Single-Cell Transcriptomics in Plant Systems and Synthetic Biology",
+        "abstract": ""
+    },
+    {
+        "title": "Acylations in cardiovascular biology and diseases, what s beyond acetylation",
+        "abstract": ""
+    },
+    {
+        "title": "Computational Resources for Molecular Biology 2024",
+        "abstract": ""
+    },
+    {
+        "title": "Oocyte may be a promising target for the study of reproductive biology and medicine",
+        "abstract": ""
+    },
+    {
+        "title": "Data Formats for Systems Biology, Systems Medicine and Computational Modeling",
+        "abstract": ""
+    },
+    {
+        "title": "The clockwork of champions: Influence of circadian biology on exercise performance",
+        "abstract": ""
+    },
+    {
+        "title": "Physics of collective transport and traffic phenomena in biology: Progress in 20 years",
+        "abstract": ""
+    },
+    {
+        "title": "Personalized redox biology: Designs and concepts",
+        "abstract": ""
+    },
+    {
+        "title": "Recent Advancements in Subcellular Proteomics: Growing Impact of Organellar Protein Niches on the Understanding of Cell Biology",
+        "abstract": ""
+    },
+    {
+        "title": "Current advancements in systems and synthetic biology studies of Saccharomyces cerevisiae",
+        "abstract": ""
+    },
+    {
+        "title": "Intelligent biology and medicine: Accelerating innovative computational approaches",
+        "abstract": ""
+    },
+    {
+        "title": "6: Protein-mediated cell cell interactions in multicellular biology",
+        "abstract": ""
+    },
+    {
+        "title": "Reduction-to-synthesis: the dominant approach to genome-scale synthetic biology",
+        "abstract": ""
+    },
+    {
+        "title": "Tree biology: From genomics to genetic improvement",
+        "abstract": ""
+    },
+    {
+        "title": "Regulatory RNAs in Bacillus subtilis: A review on regulatory mechanism and applications in synthetic biology",
+        "abstract": ""
+    },
+    {
+        "title": "Synthetic Biology Toolbox for Nitrogen-Fixing Soil Microbes",
+        "abstract": ""
+    },
+    {
+        "title": "Plant synthetic biology for human health: advances in producing medicines in heterologous expression systems",
+        "abstract": ""
+    },
+    {
+        "title": "Introduction to the special issue on the 14th International conference on the chemistry and biology of mineralized tissues",
+        "abstract": ""
+    },
+    {
+        "title": "Mammalian placental explants: A tool for studying host-parasite interactions and placental biology",
+        "abstract": ""
+    },
+    {
+        "title": "Recent advances in culture medium design for enhanced production of monoclonal antibodies in CHO cells: A comparative study of machine learning and systems biology approaches",
+        "abstract": ""
+    },
+    {
+        "title": "Bat or bee pollination? Floral biology of two sympatric Cayaponia species (Cucurbitaceae) in Southeast Brazil",
+        "abstract": ""
+    },
+    {
+        "title": "A revised central dogma for the 21st century: All biology is cognitive information processing",
+        "abstract": ""
+    },
+    {
+        "title": "Synthetic biology in Indonesia: Potential and projection in a country with mega biodiversity",
+        "abstract": ""
+    },
+    {
+        "title": "Proteomics Impact on Cell Biology to Resolve Cell Structure and Function",
+        "abstract": ""
+    },
+    {
+        "title": "Light and carbon: Synthetic biology toward new cyanobacteria-based living biomaterials",
+        "abstract": ""
+    },
+    {
+        "title": "The lake cod Gadus morhua kildinensis in the context of conservation biology",
+        "abstract": ""
+    },
+    {
+        "title": "Experience with German Research Consortia in the Field of Chemical Biology of Native Nucleic Acid Modifications",
+        "abstract": ""
+    },
+    {
+        "title": "Pseudomonas putida as a synthetic biology chassis and a metabolic engineering platform",
+        "abstract": ""
+    },
+    {
+        "title": "From space vaccinology to molecular mechanisms of choice, vaccinology needs molecular biology",
+        "abstract": ""
+    },
+    {
+        "title": "Harnessing synthetic biology for mushroom farming",
+        "abstract": ""
+    },
+    {
+        "title": "Circadian biology of cardiac aging",
+        "abstract": ""
+    },
+    {
+        "title": "Advances in synthetic biology",
+        "abstract": ""
+    },
+    {
+        "title": "Reply to Sarafova,   Accurate incorporation of somatic recombination in a hands-on activity that demonstrates the central dogma of molecular biology ",
+        "abstract": ""
+    },
+    {
+        "title": "Recent breakthroughs in computational structural biology harnessing the power of sequences and structures",
+        "abstract": ""
+    },
+    {
+        "title": "Multi-Scale Modeling in Biology",
+        "abstract": ""
+    },
+    {
+        "title": "Comprehensive Proteomics Analysis of Polyhydroxyalkanoate (PHA) Biology in Pseudomonas putida KT2440: The Outer Membrane Lipoprotein OprL is a Newly Identified Phasin",
+        "abstract": ""
+    },
+    {
+        "title": "Cell-Free Systems Biology: Characterizing Central Metabolism of Clostridium thermocellum with a Three-Enzyme Cascade Reaction",
+        "abstract": ""
+    },
+    {
+        "title": "Versatile roles of cysteine persulfides in tumor biology",
+        "abstract": ""
+    },
+    {
+        "title": "DNA storage from natural biology to synthetic biology",
+        "abstract": ""
+    },
+    {
+        "title": "Wonder and awe: Developmental biology inspires",
+        "abstract": ""
+    },
+    {
+        "title": "Design and construction of microbial cell factories based on systems biology",
+        "abstract": ""
+    },
+    {
+        "title": "Toward new horizons in cell biology",
+        "abstract": ""
+    },
+    {
+        "title": "Modern optical approaches in redox biology: Genetically encoded sensors and Raman spectroscopy",
+        "abstract": ""
+    },
+    {
+        "title": "Out With a Bang: Celebrating Global Chemical Biology",
+        "abstract": ""
+    },
+    {
+        "title": "Breaking free from the crystal lattice: Structural biology in solution to study protein degraders",
+        "abstract": ""
+    },
+    {
+        "title": "Dynamic plasmid copy number control for synthetic biology",
+        "abstract": ""
+    },
+    {
+        "title": "Scaling up cryo-EM for biology and chemistry: The journey from niche technology to mainstream method",
+        "abstract": ""
+    },
+    {
+        "title": "Green horizons: how plant synthetic biology can enable space exploration and drive on Earth sustainability",
+        "abstract": ""
+    },
+    {
+        "title": "Visual Literacy of Molecular Biology Revealed through a Card-Sorting Task",
+        "abstract": ""
+    },
+    {
+        "title": "Editorial: Fungal Biology Reviews as a modern forum for mycological discussions",
+        "abstract": ""
+    },
+    {
+        "title": "Chemical Biology",
+        "abstract": ""
+    },
+    {
+        "title": "Biomolecular NMR in the AI-assisted structural biology era: Old tricks and new opportunities",
+        "abstract": ""
+    },
+    {
+        "title": "Enhanced depolluting capabilities of microbial bioelectrochemical systems by synthetic biology",
+        "abstract": ""
+    },
+    {
+        "title": "Making the Next Generation of Therapeutics: mRNA Meets Synthetic Biology",
+        "abstract": ""
+    },
+    {
+        "title": "CRISPR/Cas9 in the era of nanomedicine and synthetic biology",
+        "abstract": ""
+    },
+    {
+        "title": "Understanding a protein fold: The physics, chemistry, and biology of Î±-helical coiled coils",
+        "abstract": ""
+    },
+    {
+        "title": "The structural biology of type III CRISPR-Cas systems",
+        "abstract": ""
+    },
+    {
+        "title": "Evolutionary biology: Co-option and the evolution of morphological novelty",
+        "abstract": ""
+    },
+    {
+        "title": "Modularized synthetic biology enabled intelligent biosensors",
+        "abstract": ""
+    },
+    {
+        "title": "Synthetic biology for plant genetic engineering and molecular farming",
+        "abstract": ""
+    },
+    {
+        "title": "Harnessing synthetic biology to engineer organoids and tissues",
+        "abstract": ""
+    },
+    {
+        "title": "Studying stochastic systems biology of the cell with single-cell genomics data",
+        "abstract": ""
+    },
+    {
+        "title": "C/EBPÎ²-induced lymphoid-to-myeloid transdifferentiation emulates granulocyte-monocyte progenitor biology",
+        "abstract": ""
+    },
+    {
+        "title": "Structural biology in cellulo: Minding the gap between conceptualization and realization",
+        "abstract": ""
+    },
+    {
+        "title": "The redox biology of adaptive homeostasis",
+        "abstract": ""
+    },
+    {
+        "title": "Kidney cancer: From tumor biology to innovative therapeutics",
+        "abstract": ""
+    },
+    {
+        "title": "Chapter 3: Molecular biology and genetic change definition",
+        "abstract": ""
+    },
+    {
+        "title": "Chapter 14: Integrating computational biology and multiomics data for precision medicine in personalized cancer treatment",
+        "abstract": ""
+    },
+    {
+        "title": "Perspectives for self-driving labs in synthetic biology",
+        "abstract": ""
+    },
+    {
+        "title": "Editorial overview: Plant synthetic biology",
+        "abstract": ""
+    },
+    {
+        "title": "A Multistep Science Literacy Training Framework in an Introductory Biology Classroom: Teaching How to Find, Evaluate, Comprehend, and Cite Scientific Evidence",
+        "abstract": ""
+    },
+    {
+        "title": "Dissecting the biology of feeding and eating disorders",
+        "abstract": ""
+    },
+    {
+        "title": "Standardization of Fluorescent Reporter Assays in Synthetic Biology across the Visible Light Spectrum",
+        "abstract": ""
+    },
+    {
+        "title": "Functional genomics and systems biology of Cordyceps species for biotechnological applications",
+        "abstract": ""
+    },
+    {
+        "title": "From Parrondo s paradox to collective intelligence: Comment on   Parrondo s paradox reveals counterintuitive wins in biology and decision making in society  by T. Wen & K.H. Cheong",
+        "abstract": ""
+    },
+    {
+        "title": "Recent advances in the application of atomic force microscopy to structural biology",
+        "abstract": ""
+    },
+    {
+        "title": "How can we integrate the biology of breast cancer cell dormancy into clinical practice?",
+        "abstract": ""
+    },
+    {
+        "title": "Self-organized collective cell behaviors as design principles for synthetic developmental biology",
+        "abstract": ""
+    },
+    {
+        "title": "Contribute to special issues in developmental biology",
+        "abstract": ""
+    },
+    {
+        "title": "An active learning card game to teach microbial pathogenesis to undergraduate biology majors",
+        "abstract": ""
+    },
+    {
+        "title": "Structural biology and inhibition of the Mtb cell wall glycoconjugates biosynthesis on the membrane",
+        "abstract": ""
+    },
+    {
+        "title": "Latent tuberculosis and computational biology: A less-talked affair",
+        "abstract": ""
+    },
+    {
+        "title": "Wolf Prize in Chemistry 2023: A Celebration for Chemical Biology",
+        "abstract": ""
+    },
+    {
+        "title": "Addressing the genetic/nongenetic duality in cancer with systems biology",
+        "abstract": ""
+    },
+    {
+        "title": "Multi-OMICS approaches in cancer biology: New era in cancer therapy",
+        "abstract": ""
+    },
+    {
+        "title": "An environmental justice fictional case study for engaging non-majors in human biology",
+        "abstract": ""
+    },
+    {
+        "title": "Cedar virus biology and its applications as a surrogate for highly pathogenic henipaviruses",
+        "abstract": ""
+    },
+    {
+        "title": "Temporal Networks in Biology",
+        "abstract": ""
+    },
+    {
+        "title": "On-demand biomanufacturing through synthetic biology approach",
+        "abstract": ""
+    },
+    {
+        "title": "New advances in cross-linking mass spectrometry toward structural systems biology",
+        "abstract": ""
+    },
+    {
+        "title": "Developmental biology   Can you dig it? An interview with Neil Shubin",
+        "abstract": ""
+    },
+    {
+        "title": "Advancing structural biology through breakthroughs in AI",
+        "abstract": ""
+    },
+    {
+        "title": "Cell biology: A new twist in the formin tail",
+        "abstract": ""
+    },
+    {
+        "title": "Endocrine regulation of reproductive biology in echinoderms: An evolutionary perspective from closest marine invertebrate relatives to chordates",
+        "abstract": ""
+    },
+    {
+        "title": "The Laboratory Automation Protocol (LAP) Format and Repository: A Platform for Enhancing Workflow Efficiency in Synthetic Biology",
+        "abstract": ""
+    },
+    {
+        "title": "Recent advancements in mogrosides: A review on biological activities, synthetic biology, and applications in the food industry",
+        "abstract": ""
+    },
+    {
+        "title": "Network biology approach unveils transcriptomic alterations triggered by particle radiation",
+        "abstract": ""
+    },
+    {
+        "title": "Chemical biology approaches to uncovering nuclear ROS control",
+        "abstract": ""
+    },
+    {
+        "title": "Emerging roles for Mitochondrial Rho GTPases in tumor biology",
+        "abstract": ""
+    },
+    {
+        "title": "Improving efficacy of in vivo therapy of sickle cell disease by hijacking natural biology of hematopoietic stem cells",
+        "abstract": ""
+    },
+    {
+        "title": "OMICS   Mass Spectrometry-Based Proteomics in Systems Biology Research",
+        "abstract": ""
+    },
+    {
+        "title": "Chapter 8: An introduction to systems biology",
+        "abstract": ""
+    },
+    {
+        "title": "Advancing synthetic biology through cell-free protein synthesis",
+        "abstract": ""
+    },
+    {
+        "title": "Synthetic biology of extremophiles: a new wave of biomanufacturing",
+        "abstract": ""
+    },
+    {
+        "title": "Identifying functional multi-host shuttle plasmids to advance synthetic biology applications in Mesorhizobium and Bradyrhizobium",
+        "abstract": ""
+    },
+    {
+        "title": "A new era of cysteine proteomics   Technological advances in thiol biology",
+        "abstract": ""
+    },
+    {
+        "title": "Interview with 2024 Society for Developmental Biology Conklin Medalist Chris Doe",
+        "abstract": ""
+    },
+    {
+        "title": "Systems biology as a framework to understand the physiological and endocrine bases of behavior and its evolution From concepts to a case study in birds",
+        "abstract": ""
+    },
+    {
+        "title": "Materialization of Information (MI) in Biology; 3-D Printing Inside the Cell: A productive analogy",
+        "abstract": ""
+    },
+    {
+        "title": "Metabolomics- and systems-biology-guided discovery of metabolite lead compounds and druggable targets",
+        "abstract": ""
+    },
+    {
+        "title": "Unlocking the magic in mycelium: Using synthetic biology to optimize filamentous fungi for biomanufacturing and sustainability",
+        "abstract": ""
+    },
+    {
+        "title": "Editorial overview Artificial intelligence methodologies in structural biology: Bridging the gap to medical applications",
+        "abstract": ""
+    },
+    {
+        "title": "Discussion of Annotated Research Articles Results in Increases in Scientific Literacy within a Cell Biology Course",
+        "abstract": ""
+    },
+    {
+        "title": "Cell biology is",
+        "abstract": ""
+    },
+    {
+        "title": "Water-protein interactions as a driver of phase separation, biology, and disease",
+        "abstract": ""
+    },
+    {
+        "title": "Deborah J. Andrew named Society for Developmental Biology s 2024 Lifetime Achievement award recipient",
+        "abstract": ""
+    },
+    {
+        "title": "Voices: Challenges and opportunities in RNA biology",
+        "abstract": ""
+    },
+    {
+        "title": "The Immunologic Complications and Genetic Origins of Telomere Biology Disorders",
+        "abstract": ""
+    },
+    {
+        "title": "Organoids from mouse molar and incisor as new tools to study tooth-specific biology and development",
+        "abstract": ""
+    },
+    {
+        "title": "From ethology to behavioral biology",
+        "abstract": ""
+    },
+    {
+        "title": "Systems biology based miRNA mRNA expression pattern analysis of Emodin in breast cancer cell lines",
+        "abstract": ""
+    },
+    {
+        "title": "Chapter 6: Unravelling the recent developments in applications and challenges of AI in cancer biology: An overview",
+        "abstract": ""
+    },
+    {
+        "title": "Accelerating Genetic Sensor Development, Scale-up, and Deployment Using Synthetic Biology",
+        "abstract": ""
+    },
+    {
+        "title": "Changing colors and understanding: the use of mutant chromogenic protein and informational suppressor strains of Escherichia coli to explore the central dogma of molecular biology",
+        "abstract": ""
+    },
+    {
+        "title": "KRIT1 in vascular biology and beyond",
+        "abstract": ""
+    },
+    {
+        "title": "Metabolic engineering and synthetic biology strategies for producing high-value natural pigments in Microalgae",
+        "abstract": ""
+    },
+    {
+        "title": "High-Content Screening in Cell Biology",
+        "abstract": ""
+    },
+    {
+        "title": "Endogenous plant nitroxyl, a new component of nitric oxide biology",
+        "abstract": ""
+    },
+    {
+        "title": "Comparative morphology of larvae of Elathous agilis NÃ©meth, 2019 and Elathous brucki (CandÃ¨ze, 1878) (Coleoptera: Elateridae: Dendrometrinae), with notes on their biology and ecology",
+        "abstract": ""
+    },
+    {
+        "title": "Standards, dissemination, and best practices in systems biology",
+        "abstract": ""
+    },
+    {
+        "title": "Harnessing iron sulfur enzymes for synthetic biology",
+        "abstract": ""
+    },
+    {
+        "title": "Biosensors in microalgae: A roadmap for new opportunities in synthetic biology and biotechnology",
+        "abstract": ""
+    },
+    {
+        "title": "Historical Advances in Structural and Molecular Biology and How They Impacted Vaccine Development",
+        "abstract": ""
+    },
+    {
+        "title": "Chapter Four: Recent advances in CAR T-cell engineering using synthetic biology: Paving the way for next-generation cancer treatment",
+        "abstract": ""
+    },
+    {
+        "title": "Cancer Systems Biology",
+        "abstract": ""
+    },
+    {
+        "title": "Chromosome biology: Too big to fail",
+        "abstract": ""
+    },
+    {
+        "title": "8: AlphaFold, the successful prediction of three-dimensional protein structures and its impact on structural biology",
+        "abstract": ""
+    },
+    {
+        "title": "The future of cell-free synthetic biology",
+        "abstract": ""
+    },
+    {
+        "title": "Synthetic developmental biology: New tools to deconstruct and rebuild developmental systems",
+        "abstract": ""
+    },
+    {
+        "title": "Collaborative Two-Stage Exams Benefit Students in a Biology Laboratory Course",
+        "abstract": ""
+    },
+    {
+        "title": "Developing microbiology literacy in biology education college: future teacher candidates",
+        "abstract": ""
+    },
+    {
+        "title": "Developing microbiology literacy in biology education college: future teacher candidates",
+        "abstract": ""
+    },
+    {
+        "title": "A systems and computational biology perspective on advancing CAR therapy",
+        "abstract": ""
+    },
+    {
+        "title": "On the evolutionary developmental biology of the cell",
+        "abstract": ""
+    },
+    {
+        "title": "Editorial overview: Systems biology of ecological interactions across scales",
+        "abstract": ""
+    },
+    {
+        "title": "Synthetic biology approaches and bioseparations in syngas fermentation",
+        "abstract": ""
+    },
+    {
+        "title": "Synthetic Biology Pathway to Nucleoside Triphosphates for Expanded Genetic Alphabets",
+        "abstract": ""
+    },
+    {
+        "title": "Silicon microfabrication technologies for biology integrated advance devices and interfaces",
+        "abstract": ""
+    },
+    {
+        "title": "Structural biology of shelterin and telomeric chromatin: the pieces and an unfinished puzzle",
+        "abstract": ""
+    },
+    {
+        "title": "Selective induction of programmed cell death using synthetic biology tools",
+        "abstract": ""
+    },
+    {
+        "title": "Expanded insights into the mechanisms of RNA-binding protein regulation of circRNA generation and function in cancer biology and therapy",
+        "abstract": ""
+    },
+    {
+        "title": "Degradation strategies of pesticide residue: From chemicals to synthetic biology",
+        "abstract": ""
+    },
+    {
+        "title": "Expansion microscopy for structural cell biology: Centriole assembly as a case model",
+        "abstract": ""
+    },
+    {
+        "title": "Advances in plant synthetic biology approaches to control expression of gene circuits",
+        "abstract": ""
+    },
+    {
+        "title": "Chapter 20: Role of synthetic biology to build a sustainable vaccine industry",
+        "abstract": ""
+    },
+    {
+        "title": "Stability, robustness, and containment: preparing synthetic biology for real-world deployment",
+        "abstract": ""
+    },
+    {
+        "title": "Systems biology analysis reveals distinct molecular signatures associated with immune responsiveness to the BNT162b COVID-19 vaccine",
+        "abstract": ""
+    },
+    {
+        "title": "New advisory board members speak on challenges and opportunities in chemical biology",
+        "abstract": ""
+    },
+    {
+        "title": "MINFLUX for dynamic structural cell biology",
+        "abstract": ""
+    },
+    {
+        "title": "Assembloid models of cell-cell interaction to study tissue and disease biology",
+        "abstract": ""
+    },
+    {
+        "title": "From integrative structural biology to cell biology",
+        "abstract": ""
+    },
+    {
+        "title": "Exomap1 mouse: A transgenic model for in vivo studies of exosome biology",
+        "abstract": ""
+    },
+    {
+        "title": "Chemical cross-linking and mass spectrometry enabled systems-level structural biology",
+        "abstract": ""
+    },
+    {
+        "title": "Computational systems biology of cellular processes in the human lymph node",
+        "abstract": ""
+    },
+    {
+        "title": "Systems biology of root development in Populus: Review and perspectives",
+        "abstract": ""
+    },
+    {
+        "title": "Diversity in connexin biology",
+        "abstract": ""
+    },
+    {
+        "title": "Chapter Nine: System biology approaches for drug repurposing",
+        "abstract": ""
+    },
+    {
+        "title": "Announcement: Journal of Structural Biology: X   Paper of the Year",
+        "abstract": ""
+    },
+    {
+        "title": "Can synthetic biology really empower microbial biopolymers as efficient food contact materials?",
+        "abstract": ""
+    },
+    {
+        "title": "In Memoriam: Dr Sang Dai Park, Renowned Pioneer in Molecular Biology and Genetic Engineering",
+        "abstract": ""
+    },
+    {
+        "title": "Introduction to Engineering Biology: A Conceptual Framework for Teaching Synthetic Biology",
+        "abstract": ""
+    },
+    {
+        "title": "Corrigendum to   Fibrolamellar carcinomas growth arrested by paracrine signals complexed with synthesized 3-O sulfated heparan sulfate oligosaccharides  [Matrix Biology 121(August 2023), 194 216]",
+        "abstract": ""
+    },
+    {
+        "title": "Pursuing structural biology in China",
+        "abstract": ""
+    },
+    {
+        "title": "Synthetic Biology Design as a Paradigm Shift toward Manufacturing Affordable Adeno-Associated Virus Gene Therapies",
+        "abstract": ""
+    },
+    {
+        "title": "Hepcidin: A multifaceted hormone in iron homeostasis and tumor biology",
+        "abstract": ""
+    },
+    {
+        "title": "Chapter 19: A meshwork of artificial intelligence and biology: The future of science",
+        "abstract": ""
+    },
+    {
+        "title": "A chemical biology/modular antibody platform for ADP-ribosylation signaling",
+        "abstract": ""
+    },
+    {
+        "title": "Synthetic Genomics: Repurposing Biological Systems for Applications in Engineering Biology",
+        "abstract": ""
+    },
+    {
+        "title": "Review: Understanding fish muscle biology in the indeterminate growth species pacu (Piaractus mesopotamicus)",
+        "abstract": ""
+    },
+    {
+        "title": "Celebrating our origins with cell biology",
+        "abstract": ""
+    },
+    {
+        "title": "Mapping and exploring the organoid state space using synthetic biology",
+        "abstract": ""
+    },
+    {
+        "title": "Chapter 2: The synergy of AI and biology: A transformative partnership",
+        "abstract": ""
+    },
+    {
+        "title": "Moving structural biology forward together",
+        "abstract": ""
+    },
+    {
+        "title": "From biology to personalized medicine: Recent knowledge in osteosarcoma",
+        "abstract": ""
+    },
+    {
+        "title": "Accurate incorporation of somatic recombination in a hands-on activity that demonstrates the central dogma of molecular biology",
+        "abstract": ""
+    },
+    {
+        "title": "Phase Separation in Biology and Disease; Current Perspectives and Open Questions",
+        "abstract": ""
+    },
+    {
+        "title": "Decoding Human Biology and Disease Using Single-cell Omics Technologies",
+        "abstract": ""
+    },
+    {
+        "title": "Quo Vadis Experimental Structural Biology?",
+        "abstract": ""
+    },
+    {
+        "title": "Cell Biology: An Overview",
+        "abstract": ""
+    },
+    {
+        "title": "An integrated computational biology approach defines the crucial role of TRIP13 in pancreatic cancer",
+        "abstract": ""
+    },
+    {
+        "title": "Deciphering crucial genes in multiple sclerosis pathogenesis and drug repurposing: A systems biology approach",
+        "abstract": ""
+    },
+    {
+        "title": "Design and Selection of Heterodimerizing Helical Hairpins for Synthetic Biology",
+        "abstract": ""
+    },
+    {
+        "title": "In silico labeling in cell biology: Potential and limitations",
+        "abstract": ""
+    },
+    {
+        "title": "Environment and synthetic biology",
+        "abstract": ""
+    },
+    {
+        "title": "Metastasis in renal cell carcinoma: Biology and treatment",
+        "abstract": ""
+    },
+    {
+        "title": "Evaluation of common genes and molecular pathways between atherosclerosis and inflammatory bowel disease: A systems biology approach",
+        "abstract": ""
+    },
+    {
+        "title": "Metabolic regulation of the hallmarks of stem cell biology",
+        "abstract": ""
+    },
+    {
+        "title": "Towards single cell encapsulation for precision biology and medicine",
+        "abstract": ""
+    },
+    {
+        "title": "Announcing the establishment of new speciality section on quantum biology and biophotonics",
+        "abstract": ""
+    },
+    {
+        "title": "System biology approaches for systemic diseases: Emphasis on type II diabetes mellitus and allied metabolism",
+        "abstract": ""
+    },
+    {
+        "title": "Modulating material properties of cargo protein to probe exopher biology",
+        "abstract": ""
+    },
+    {
+        "title": "Induced pluripotent stem cell technology in bone biology",
+        "abstract": ""
+    },
+    {
+        "title": "From information to physics to biology",
+        "abstract": ""
+    },
+    {
+        "title": "Chapter 10: Application of omics and systems biology in agriculture and other allied fields",
+        "abstract": ""
+    },
+    {
+        "title": "Pseudocercospora fijiensis and Pseudocercospora musae: Understanding the relationship between biology and epidemiology",
+        "abstract": ""
+    },
+    {
+        "title": "Enhancement of efficient molecular biology tools for Tremella fuciformis spore",
+        "abstract": ""
+    },
+    {
+        "title": "Omics-based approaches for the systematic profiling of mitochondrial biology",
+        "abstract": ""
+    },
+    {
+        "title": "Networks in Biology",
+        "abstract": ""
+    },
+    {
+        "title": "The 2023 Structural Biology Summit at UCLA",
+        "abstract": ""
+    },
+    {
+        "title": "Deciphering the molecular landscape of the FAM72 gene family: Implications for stem cell biology and cancer",
+        "abstract": ""
+    },
+    {
+        "title": "Advancing cell biology with nanoscale fluorescence imaging: essential practical considerations",
+        "abstract": ""
+    },
+    {
+        "title": "Expanding the structural diversity of terpenes by synthetic biology approaches",
+        "abstract": ""
+    },
+    {
+        "title": "Biotechnological and food synthetic biology potential of platform strain: Bacillus licheniformis",
+        "abstract": ""
+    },
+    {
+        "title": "Quantum Electron Tunneling in the Respiratory Chain: A Case for Quantum Biology",
+        "abstract": ""
+    },
+    {
+        "title": "Spatiotemporal omics for biology and medicine",
+        "abstract": ""
+    },
+    {
+        "title": "Chapter 16: Artificial intelligence-based protein structure prediction and systems biology-guided smart drug screening",
+        "abstract": ""
+    },
+    {
+        "title": "Long Non-Coding RNAs in Disease Biology",
+        "abstract": ""
+    },
+    {
+        "title": "Structural features of sensory two component systems: a synthetic biology perspective",
+        "abstract": ""
+    },
+    {
+        "title": "The beauty and challenges of studying cell biology in diverse organisms",
+        "abstract": ""
+    },
+    {
+        "title": "Synthetic biology-guided design and biosynthesis of protein polymers for delivery",
+        "abstract": ""
+    },
+    {
+        "title": "Facile methods for reusing laboratory plastic in developmental biology experiments",
+        "abstract": ""
+    },
+    {
+        "title": "Engineering biology for sustainable 1,4-butanediol synthesis",
+        "abstract": ""
+    },
+    {
+        "title": "Announcement: Journal of Structural Biology   Paper of the Year 2022",
+        "abstract": ""
+    },
+    {
+        "title": "Chapter 5: Generational stability of epigenetic transgenerational inheritance and role of environmental epigenetics in evolutionary biology",
+        "abstract": ""
+    },
+    {
+        "title": "ï»¿Productivity and impact of the Unisinos  Postgraduate Program in Biology and the consequences of its interruption for Brazilian science",
+        "abstract": ""
+    },
+    {
+        "title": "Bacterial Protein Toxins as Tools in Cell Biology and Physiology",
+        "abstract": ""
+    },
+    {
+        "title": "Oocyte biology: Perhaps chromosomal glue can be reapplied",
+        "abstract": ""
+    },
+    {
+        "title": "Lysine lactylation in the regulation of tumor biology",
+        "abstract": ""
+    },
+    {
+        "title": "HIV   The Cell Biology of Virus Infection and Replication",
+        "abstract": ""
+    },
+    {
+        "title": "Tuning specificity and topology of lectins through synthetic biology",
+        "abstract": ""
+    },
+    {
+        "title": "What Lies Beneath? Taking the Plunge into the Murky Waters of Phage Biology",
+        "abstract": ""
+    },
+    {
+        "title": "A synthetic biology approach to assemble and reboot clinically relevant Pseudomonas aeruginosa tailed phages",
+        "abstract": ""
+    },
+    {
+        "title": "Realizing integration in structural biology: The 2022 ISBUC Annual Meeting",
+        "abstract": ""
+    },
+    {
+        "title": "Expanding horizons of tandem repeats in biology and medicine: Why genomic dark matter  matters",
+        "abstract": ""
+    },
+    {
+        "title": "Advances in the cell biology of the trafficking and processing of amyloid precursor protein: impact of familial Alzheimer s disease mutations",
+        "abstract": ""
+    },
+    {
+        "title": "GPCR Allostery: A View from Computational Biology",
+        "abstract": ""
+    },
+    {
+        "title": "Evolutionary perspective on mammalian inorganic polyphosphate (polyP) biology",
+        "abstract": ""
+    },
+    {
+        "title": "Chapter Five: Computational biology approaches for drug repurposing",
+        "abstract": ""
+    },
+    {
+        "title": "New frontiers in sulfur and selenium chemical biology",
+        "abstract": ""
+    },
+    {
+        "title": "300 Association of lymphovascular invasion with tumor biology and clinical outcome in oral cavity cancer",
+        "abstract": ""
+    },
+    {
+        "title": "Next-generation synthetic biology approaches for the accelerated discovery of microbial natural products",
+        "abstract": ""
+    },
+    {
+        "title": "Ubiquitin proteasome system and glaucoma: A survey of genetics and molecular biology studies supporting a link with pathogenic and therapeutic relevance",
+        "abstract": ""
+    },
+    {
+        "title": "The Calvin Benson cycle in bacteria: New insights from systems biology",
+        "abstract": ""
+    },
+    {
+        "title": "Phage biology: The ins and outs of prophages in bacterial populations",
+        "abstract": ""
+    },
+    {
+        "title": "Recent advances in the structural biology of tyrosine kinases",
+        "abstract": ""
+    },
+    {
+        "title": "A journey with psychedelic mushrooms: From historical relevance to biology, cultivation, medicinal uses, biotechnology, and beyond",
+        "abstract": ""
+    },
+    {
+        "title": "Systems biology approach to identify biomarkers and therapeutic targets for colorectal cancer",
+        "abstract": ""
+    },
+    {
+        "title": "The SARS-CoV 2 Mpro Dimer-Based Screening System: A Synthetic Biology Tool for Identifying Compounds with Dimerization Inhibitory Potential",
+        "abstract": ""
+    },
+    {
+        "title": "30th anniversary of Cell Chemical Biology: A conversation with founding editors K.C. Nicolaou and Gregory Verdine",
+        "abstract": ""
+    },
+    {
+        "title": "Interactions of mitochondrial and skeletal muscle biology in mitochondrial myopathy",
+        "abstract": ""
+    },
+    {
+        "title": "Identification of the active compounds in the Yi-Fei-San-Jie formula using a comprehensive strategy based on cell extraction/UPLC-MS/MS, network pharmacology, and molecular biology techniques",
+        "abstract": ""
+    },
+    {
+        "title": "Combination of Metabolomics, Lipidomics, and Molecular Biology for the Investigation of the Metabolic Disturbance of Short-Term Administration of Emodin",
+        "abstract": ""
+    },
+    {
+        "title": "244: identification of ATM gene in radio-resistance pancreatic cancer cells using system biology analysis",
+        "abstract": ""
+    },
+    {
+        "title": "Chapter 1: Historical Aspects and Biology of Aging",
+        "abstract": ""
+    },
+    {
+        "title": "Plant synthetic biology: from inspiration to augmentation",
+        "abstract": ""
+    },
+    {
+        "title": "Sclerotium rolfsii-induced damping off and root rot in sugar beet: Understanding the biology, pathogenesis, and disease management strategies",
+        "abstract": ""
+    },
+    {
+        "title": "Navigating the terrain of protein aggregation and phase separation - A chemical biology perspective",
+        "abstract": ""
+    },
+    {
+        "title": "Parrondo s paradox reveals counterintuitive wins in biology and decision making in society",
+        "abstract": ""
+    },
+    {
+        "title": "Allogeneic Hematopoietic Cell Transplant For Bone Marrow Failure or Myelodysplastic Syndrome in Dyskeratosis Congenita/Telomere Biology Disorders: Single-Center, Single-Arm, Open-Label Trial of Reduced-Intensity Conditioning Without Radiation",
+        "abstract": ""
+    },
+    {
+        "title": "Secretome Analysis Using Affinity Proteomics and Immunoassays: A Focus on Tumor Biology",
+        "abstract": ""
+    },
+    {
+        "title": "Histone acetylation and deacetylation   Mechanistic insights from structural biology",
+        "abstract": ""
+    },
+    {
+        "title": "Structural profiles of the full phagocyte NADPH oxidase unveiled by combining computational biology and experimental knowledge",
+        "abstract": ""
+    },
+    {
+        "title": "Scanning Electron Microscopy in Cell Biology",
+        "abstract": ""
+    },
+    {
+        "title": "Advances, challenges, and opportunities in structural biology",
+        "abstract": ""
+    },
+    {
+        "title": "Profiling Sulfur(VI) Fluorides as Reactive Functionalities for Chemical Biology Tools and Expansion of the Ligandable Proteome",
+        "abstract": ""
+    },
+    {
+        "title": "Leveraging synthetic biology and metabolic engineering to overcome obstacles in plant pathway elucidation",
+        "abstract": ""
+    },
+    {
+        "title": "The role of structural biology in the design of sirtuin activators",
+        "abstract": ""
+    },
+    {
+        "title": "Hypertranscription: the invisible hand in stem cell biology",
+        "abstract": ""
+    },
+    {
+        "title": "Application of a Cell-Free Synthetic Biology Platform for the Reconstitution of Teleocidin B and UK-2A Precursor Biosynthetic Pathways",
+        "abstract": ""
+    },
+    {
+        "title": "A geometrically controlled post-translational oscillator for synthetic biology",
+        "abstract": ""
+    },
+    {
+        "title": "Does thermal biology differ between two colour pattern morphs of a widespread Australian lizard?",
+        "abstract": ""
+    },
+    {
+        "title": "Synthetic Biology Toolbox for Antarctic Pseudomonas sp. Strains: Toward a Psychrophilic Nonmodel Chassis for Function-Driven Metagenomics",
+        "abstract": ""
+    },
+    {
+        "title": "The importance of context and framing: Supporting undergraduate students apply physics knowledge in biology",
+        "abstract": ""
+    },
+    {
+        "title": "Genetically encoded biosensors for microbial synthetic biology: From conceptual frameworks to practical applications",
+        "abstract": ""
+    },
+    {
+        "title": "The use of systems biology in treatment of metabolic diseases",
+        "abstract": ""
+    },
+    {
+        "title": "Acknowledgement of reviewers who reviewed for Water Biology and Security in 2023",
+        "abstract": ""
+    },
+    {
+        "title": "Insights on the genetics, molecular biology and management strategies on emerging false smut pathogenesis in rice",
+        "abstract": ""
+    },
+    {
+        "title": "Evolutionary innovations in germline biology of placental mammals identified by transcriptomics of first-wave spermatogenesis in opossum",
+        "abstract": ""
+    },
+    {
+        "title": "Computational structural biology: Evolution of the field",
+        "abstract": ""
+    },
+    {
+        "title": "Reaction-diffusion waves in biology: new trends, recent developments",
+        "abstract": ""
+    },
+    {
+        "title": "From sequence to structure to mechanism to phenotype: The new frontiers of structural biology",
+        "abstract": ""
+    },
+    {
+        "title": "Cellular Immunology: Overview   Introduction to Functional Cell Biology of Immunity",
+        "abstract": ""
+    },
+    {
+        "title": "A blueprint of synergistic effect in Ilex Cornuta stems and gut microbiota against Crohn s disease via systems biology concept",
+        "abstract": ""
+    },
+    {
+        "title": "MicroRNA-21 s role in PTEN suppression and PI3K/AKT activation: Implications for cancer biology",
+        "abstract": ""
+    },
+    {
+        "title": "3153   CRISPR-DIRECTED CHROMOSOMAL TRANSLOCATIONS PROVIDE NOVEL INSIGHTS INTO LEUKEMIA BIOLOGY",
+        "abstract": ""
+    },
+    {
+        "title": "Structural biology of the human papillomavirus",
+        "abstract": ""
+    },
+    {
+        "title": "Programmable synthetic biology tools for developing microbial cell factories",
+        "abstract": ""
+    },
+    {
+        "title": "Endosomal signaling via cAMP in parathyroid hormone (PTH) type 1 receptor biology",
+        "abstract": ""
+    },
+    {
+        "title": "A high-throughput synthetic biology approach for studying combinatorial chromatin-based transcriptional regulation",
+        "abstract": ""
+    },
+    {
+        "title": "E3 Ligases Meet Their Match: Fragment-Based Approaches to Discover New E3 Ligands and to Unravel E3 Biology",
+        "abstract": ""
+    },
+    {
+        "title": "Metastatic pheochromocytoma and paraganglioma: Integrating tumor biology in clinical practice",
+        "abstract": ""
+    },
+    {
+        "title": "Perspective of ethylene biology for abiotic stress acclimation in plants",
+        "abstract": ""
+    },
+    {
+        "title": "A structural biology 3D-viewer compatible file format for localization atomic force microscopy maps",
+        "abstract": ""
+    },
+    {
+        "title": "Does it stick? Long-term outcomes for biology majors from introductory physics for the life sciences",
+        "abstract": ""
+    },
+    {
+        "title": "Chapter Nine: MHC tetramer technology: Exploring T cell biology in health and disease",
+        "abstract": ""
+    },
+    {
+        "title": "Understanding osteokine biology",
+        "abstract": ""
+    },
+    {
+        "title": "From a mathematical science of living systems to biology and economics: Comment to   What is life? Active particles tools towards behavioral dynamics in social-biology and economics  by B. Bellomo, M. Esfahanian, V. Secchini, and P. Terna",
+        "abstract": ""
+    },
+    {
+        "title": "Structural biology and functional features of phage-derived depolymerase Depo32 on Klebsiella pneumoniae with K2 serotype capsular polysaccharides",
+        "abstract": ""
+    },
+    {
+        "title": "Balanced basal-levels of ROS (redox-biology), and very-low-levels of pro-inflammatory cytokines (cold-inflammaging), as signaling molecules can prevent or slow-down overt-inflammaging, and the aging-associated decline of adaptive-homeostasis",
+        "abstract": ""
+    },
+    {
+        "title": "Our extended microbiome: The human-relevant metabolites and biology of fermented foods",
+        "abstract": ""
+    },
+    {
+        "title": "Plasmids on the move: Latest advances in Plasmid Biology from ISPB2022",
+        "abstract": ""
+    },
+    {
+        "title": "A Structural Systems Biology Approach to High-Risk CG23 Klebsiella pneumoniae",
+        "abstract": ""
+    },
+    {
+        "title": "Chapter 15: Molecular pathway approach in biology and fundamental medicine",
+        "abstract": ""
+    },
+    {
+        "title": "Abstract 1816 BIOCHEMISTRY AND MOLECULAR BIOLOGY EDUCATION - BAMBED.ORG - LOOKING BACK AND LOOKING FORWARD",
+        "abstract": ""
+    },
+    {
+        "title": "Soil biology: Fungi in plant roots what do they all do down there?",
+        "abstract": ""
+    },
+    {
+        "title": "Abstract 1206 Lessons learned creating an Open Education Resource for a Cell & Molecular Biology course",
+        "abstract": ""
+    },
+    {
+        "title": "Chapter 17: Artificial intelligence in classrooms: How artificial intelligence can aid in teaching biology",
+        "abstract": ""
+    },
+    {
+        "title": "Structural biology of proteins involved in nitrogen cycling",
+        "abstract": ""
+    },
+    {
+        "title": "Epilogue: Why magneto-biology is attractive?",
+        "abstract": ""
+    },
+    {
+        "title": "Cell biology: Converging paths to cohesion",
+        "abstract": ""
+    },
+    {
+        "title": "Anatomical biology guides a search for nutrients for the aging brain",
+        "abstract": ""
+    },
+    {
+        "title": "G4 and i-motif Biology",
+        "abstract": ""
+    },
+    {
+        "title": "Comparative reproductive biology of two sympatric Hypostomus in a Neotropical river",
+        "abstract": ""
+    },
+    {
+        "title": "Exploring scanning electrochemical probe microscopy in single-entity analysis in biology: Past, present, and future",
+        "abstract": ""
+    },
+    {
+        "title": "Peeking under the hood of early embryogenesis: Using tools and synthetic biology to understand native control systems and sculpt tissues",
+        "abstract": ""
+    },
+    {
+        "title": "Integrated Direct-to-Biology Platform for the Nanoscale Synthesis and Biological Evaluation of PROTACs",
+        "abstract": ""
+    },
+    {
+        "title": "MapReduce in Computational Biology via Hadoop and Spark",
+        "abstract": ""
+    },
+    {
+        "title": "A tribute to Sidney Altman, one of the architects of modern RNA biology",
+        "abstract": ""
+    },
+    {
+        "title": "Computational Resources for Molecular Biology 2023",
+        "abstract": ""
+    },
+    {
+        "title": "Analysis of Pneumocystis Transcription Factor Evolution and Implications for Biology and Lifestyle",
+        "abstract": ""
+    },
+    {
+        "title": "Multiplexed cytometry for single cell chemical biology",
+        "abstract": ""
+    },
+    {
+        "title": "Female cardiovascular biology and resilience in the setting of physiological and pathological stress",
+        "abstract": ""
+    },
+    {
+        "title": "The second half of mitosis and its implications in cancer biology",
+        "abstract": ""
+    },
+    {
+        "title": "Anne Ephrussi awarded 2023 Developmental Biology-Society for Developmental Biology Lifetime Achievement Award",
+        "abstract": ""
+    },
+    {
+        "title": "Telomere Biology",
+        "abstract": ""
+    },
+    {
+        "title": "Cell biology: Wanderers that balloon towards light",
+        "abstract": ""
+    },
+    {
+        "title": "Ribosomal RNA expansion segments and their role in ribosome biology",
+        "abstract": ""
+    },
+    {
+        "title": "2628: Dosimetric evaluation of Biology-guided Radiotherapy for locally recurrent prostate cancer",
+        "abstract": ""
+    },
+    {
+        "title": "Recent advances in sulfur biology and chemistry",
+        "abstract": ""
+    },
+    {
+        "title": "3098: First-in-Human Experience with Biology-guided Radiotherapy (BgRT) Using the RefleXion X1 System",
+        "abstract": ""
+    },
+    {
+        "title": "Lysine methylation signaling in skeletal muscle biology: from myogenesis to clinical insights",
+        "abstract": ""
+    },
+    {
+        "title": "Abstract 1684 Exploring metabolic pathways to central dogma in undergraduate curriculum with structural visualization and insight in Biochemistry and Molecular Biology courses using PyMol",
+        "abstract": ""
+    },
+    {
+        "title": "3262: Monitoring of PET-Avid OAR Moving in the Treatment Area During Biology-guided Radiotherapy Delivery",
+        "abstract": ""
+    },
+    {
+        "title": "Abstract 2366 Glass Half Full or Empty: Illuminating the Human Transcriptome - Inspiring Underserved High School Students with an Experiential Biology Laboratory Research Experience",
+        "abstract": ""
+    },
+    {
+        "title": "Chapter Three: Structural biology of terpene synthases",
+        "abstract": ""
+    },
+    {
+        "title": "Plant biology: Mapping meristem morphogenesis in Marchantia",
+        "abstract": ""
+    },
+    {
+        "title": "Molecular biology and novel therapeutics for IDH mutant gliomas: The new era of IDH inhibitors",
+        "abstract": ""
+    },
+    {
+        "title": "Functional genomics for curation of variants in telomere biology disorder associated genes: A systematic review",
+        "abstract": ""
+    },
+    {
+        "title": "Mini-review: Gene regulatory network benefits from three-dimensional chromatin conformation and structural biology",
+        "abstract": ""
+    },
+    {
+        "title": "Running the numbers on plant synthetic biology solutions to global problems",
+        "abstract": ""
+    },
+    {
+        "title": "ROS interplay between plant growth and stress biology: Challenges and future perspectives",
+        "abstract": ""
+    },
+    {
+        "title": "Biology of amphibian granulocytes - From evolutionary pressures to functional consequences",
+        "abstract": ""
+    },
+    {
+        "title": "Student definitions of ownership and perceived ways ownership influences writing in a biology laboratory class",
+        "abstract": ""
+    },
+    {
+        "title": "Properties of disulfide radical anions and their reactions in chemistry and biology",
+        "abstract": ""
+    },
+    {
+        "title": "Synthetic Biologyî¸High Time to Deliver?",
+        "abstract": ""
+    },
+    {
+        "title": "Plant biology: Unlocking mitochondrial stress signals",
+        "abstract": ""
+    },
+    {
+        "title": "Sustainability & molecular biology",
+        "abstract": ""
+    },
+    {
+        "title": "C. elegans as a model to study mitochondrial biology and disease",
+        "abstract": ""
+    },
+    {
+        "title": "Recent omics advances in hair aging biology and hair biomarkers analysis",
+        "abstract": ""
+    },
+    {
+        "title": "Introduction to the special issue Canine and Feline Reproduction: Reproductive biology and medicine of domestic and exotic carnivores ",
+        "abstract": ""
+    },
+    {
+        "title": "Evolutionary cell biology: New roles for Arp2/3 complex evolution in eukaryotic diversification",
+        "abstract": ""
+    },
+    {
+        "title": "Exploring the world of small proteins in plant biology and bioengineering",
+        "abstract": ""
+    },
+    {
+        "title": "GDF11 as a friend or an enemy in the cancer biology?",
+        "abstract": ""
+    },
+    {
+        "title": "Genetic engineering meets hematopoietic stem cell biology for next-generation gene therapy",
+        "abstract": ""
+    },
+    {
+        "title": "Clinical significance and biology of circulating tumor DNA in high-risk early-stage HER2-negative breast cancer receiving neoadjuvant chemotherapy",
+        "abstract": ""
+    },
+    {
+        "title": "Adipose tissue lymphatic endothelial cells: revisited functions in the modulation of adipose biology",
+        "abstract": ""
+    },
+    {
+        "title": "The biology of insect chitinases and their roles at chitinous cuticles",
+        "abstract": ""
+    },
+    {
+        "title": "The conformationally dynamic structural biology of lanthipeptide biosynthesis",
+        "abstract": ""
+    },
+    {
+        "title": "Therapy-induced senescence as a component of tumor biology: Evidence from clinical cancer",
+        "abstract": ""
+    },
+    {
+        "title": "Applications of toxin-antitoxin systems in synthetic biology",
+        "abstract": ""
+    },
+    {
+        "title": "SnapShot: Condensates in plant biology",
+        "abstract": ""
+    },
+    {
+        "title": "Recent advances in plant cell biology",
+        "abstract": ""
+    },
+    {
+        "title": "Plant metabolism and synthetic biology",
+        "abstract": ""
+    },
+    {
+        "title": "Chemical interplay between gut microbiota and epigenetics: Implications in circadian biology",
+        "abstract": ""
+    },
+    {
+        "title": "Elucidation of the mechanism of Yiqi Tongluo Granule against cerebral ischemia/reperfusion injury based on a combined strategy of network pharmacology, multi-omics and molecular biology",
+        "abstract": ""
+    },
+    {
+        "title": "Mechanistic and kinetic insights into transcription factor biology via acute protein depletion",
+        "abstract": ""
+    },
+    {
+        "title": "Structural biology of microbial gas vesicles: historical milestones and current knowledge",
+        "abstract": ""
+    },
+    {
+        "title": "Structural biology in the age of X-ray free-electron lasers and exascale computing",
+        "abstract": ""
+    },
+    {
+        "title": "Advances in biology and novel treatments of SCLC",
+        "abstract": ""
+    },
+    {
+        "title": "Society for Developmental Biology 82nd Annual Meeting",
+        "abstract": ""
+    },
+    {
+        "title": "Introducing article numbering to Fungal Biology Reviews",
+        "abstract": ""
+    },
+    {
+        "title": "The in silico lab: Improving academic code using lessons from biology",
+        "abstract": ""
+    },
+    {
+        "title": "Exploring the emerging role of long non-coding RNAs (lncRNAs) in plant biology: Functions, mechanisms of action, and future directions",
+        "abstract": ""
+    },
+    {
+        "title": "LncRNAs and PTEN/PI3K signaling: A symphony of regulation in cancer biology",
+        "abstract": ""
+    },
+    {
+        "title": "The coming golden age for lichen biology",
+        "abstract": ""
+    },
+    {
+        "title": "Abstract 1369 Harnessing plant specialized metabolism for new medicines through synthetic biology",
+        "abstract": ""
+    },
+    {
+        "title": "PROTAC technology: A new drug design for chemical biology with many challenges in drug discovery",
+        "abstract": ""
+    },
+    {
+        "title": "Synthetic biology tools for engineering Corynebacterium glutamicum",
+        "abstract": ""
+    },
+    {
+        "title": "How will climate change affect the feeding biology of Collembola?",
+        "abstract": ""
+    },
+    {
+        "title": "Overcoming challenges in structural biology with integrative approaches and nanobody-derived technologies",
+        "abstract": ""
+    },
+    {
+        "title": "Chapter Four: Gastrointestinal hormones: History, biology, and measurement",
+        "abstract": ""
+    },
+    {
+        "title": "Role of O-GlcNAcylation in cancer biology",
+        "abstract": ""
+    },
+    {
+        "title": "Chapter 2: Unveiling spatial biology of cellular landscapes with imaging mass cytometry",
+        "abstract": ""
+    },
+    {
+        "title": "Altered memory CCR6+ Th17-polarised T-cell function and biology in people with HIV under successful antiretroviral therapy and HIV elite controllers",
+        "abstract": ""
+    },
+    {
+        "title": "Analytical techniques in chemical biology",
+        "abstract": ""
+    },
+    {
+        "title": "Systems biology s role in leveraging microalgal biomass potential: Current status and future perspectives",
+        "abstract": ""
+    },
+    {
+        "title": "RNA in Biology and Therapeutics",
+        "abstract": ""
+    },
+    {
+        "title": "Building the next generation of virtual cells to understand cellular biology",
+        "abstract": ""
+    },
+    {
+        "title": "A perspective on molecular and cellular biology-based developmental toxicology biomarkers",
+        "abstract": ""
+    },
+    {
+        "title": "A   protein structure transformer  for integrative structural biology and molecular design",
+        "abstract": ""
+    },
+    {
+        "title": "Stem cell biology needs a theory",
+        "abstract": ""
+    },
+    {
+        "title": "The Ramifications of synthetic biology",
+        "abstract": ""
+    },
+    {
+        "title": "FALCON systematically interrogates free fatty acid biology and identifies a novel mediator of lipotoxicity",
+        "abstract": ""
+    },
+    {
+        "title": "Sustainability and molecular biology: An interview with Prof. Niels Mailand and Ann Schirin Mirsanaye",
+        "abstract": ""
+    },
+    {
+        "title": "Cell Biology of Virus Infection",
+        "abstract": ""
+    },
+    {
+        "title": "Sustainability and molecular biology: An interview with Martin Farley",
+        "abstract": ""
+    },
+    {
+        "title": "Editorial overview: Artificial intelligence (AI) methodology in structural biology",
+        "abstract": ""
+    },
+    {
+        "title": "A newly predicted class of protein misfolding explains decades-old biochemical and molecular biology data",
+        "abstract": ""
+    },
+    {
+        "title": "Chapter 4: Molecular Cancer Biology",
+        "abstract": ""
+    },
+    {
+        "title": "Abstract 2150 Using System Biology Approaches to Understand the O-GlcNAc Rheostat",
+        "abstract": ""
+    },
+    {
+        "title": "Advancing cell biology by unifying open-source modeling and facilitating broad community collaboration",
+        "abstract": ""
+    },
+    {
+        "title": "Abstract 2189 A genome-wide screen identifies novel regulators of peroxisome biology",
+        "abstract": ""
+    },
+    {
+        "title": "Abstract 1599 Development and Use of Literature Guided Assessments (LGAs) in an OER to Teach Biochemistry and Molecular Biology",
+        "abstract": ""
+    },
+    {
+        "title": "Role of SIRT3 in mitochondrial biology and its therapeutic implications in neurodegenerative disorders",
+        "abstract": ""
+    },
+    {
+        "title": "The cell biology of APOE in the brain",
+        "abstract": ""
+    },
+    {
+        "title": "Chapter 15: Systems biology approaches to unveiling the expression of phospholipases in various types of cancer Transcriptomics and protein-protein interaction networks",
+        "abstract": ""
+    },
+    {
+        "title": "Exploring Myc puzzle: Insights into cancer, stem cell biology, and PPI networks",
+        "abstract": ""
+    },
+    {
+        "title": "Chapter 14: Engineering biology fundamental for plant-derived bioactive compounds: challenges and prospects",
+        "abstract": ""
+    },
+    {
+        "title": "In Vitro Models for the Study of Liver Biology and Diseases: Advances and Limitations",
+        "abstract": ""
+    },
+    {
+        "title": "Developmental biology: A hole in the matrix",
+        "abstract": ""
+    },
+    {
+        "title": "Abstract 1655 Lessons Learned from the First Implementation of Malate Dehydrogenase CUREs in Biochemistry, Biology, and Chemistry Lab Courses",
+        "abstract": ""
+    },
+    {
+        "title": "Editorial- Insights of extracellular vesicles in cell biology",
+        "abstract": ""
+    },
+    {
+        "title": "Systems biology of human aging: A Fibonacci time series model",
+        "abstract": ""
+    },
+    {
+        "title": "Protocol to develop a synthetic biology toolkit for the non-model bacterium R. palustris",
+        "abstract": ""
+    },
+    {
+        "title": "The body is not just impacted by eating disorders   biology drives them",
+        "abstract": ""
+    },
+    {
+        "title": "Chemical approaches to unraveling the biology of mycobacteria",
+        "abstract": ""
+    },
+    {
+        "title": "Chapter Three: Structural biology of SARS-CoV-2",
+        "abstract": ""
+    },
+    {
+        "title": "Chapter Four: Inflammatory breast cancer biomarkers and biology",
+        "abstract": ""
+    },
+    {
+        "title": "PBX1 as a novel master regulator in cancer: Its regulation, molecular biology, and therapeutic applications",
+        "abstract": ""
+    },
+    {
+        "title": "  Transfer  of power: The intersection of DNA virus infection and tRNA biology",
+        "abstract": ""
+    },
+    {
+        "title": "Reproductive biology: A genetic recipe for parthenogenesis",
+        "abstract": ""
+    },
+    {
+        "title": "Chemical Biology Approaches Confirm MCT4 as the Therapeutic Target of a Cellular Optimized Hit",
+        "abstract": ""
+    },
+    {
+        "title": "Winner of the 2022 Best paper in Developmental Biology Award   Jeet Patel takes a (w)hif1Î± of regeneration mechanisms",
+        "abstract": ""
+    },
+    {
+        "title": "Oxylipin status, before and after LC n-3 PUFA supplementation, has little relationship with skeletal muscle biology in older adults at risk of sarcopenia",
+        "abstract": ""
+    },
+    {
+        "title": "Differentially regulated targets in the fast-acting antidepressant effect of (R)-ketamine: A systems biology approach",
+        "abstract": ""
+    },
+    {
+        "title": "Chapter 10: Systems and network biology",
+        "abstract": ""
+    },
+    {
+        "title": "From animal biology to simulated models and back: Comment on   control of movement of underwater swimmers: Animals, simulated animates and swimming robots  by Gordleeva et al.",
+        "abstract": ""
+    },
+    {
+        "title": "Chapter 15: Molecular biology, genetic, and epigenetics of prostate tumor",
+        "abstract": ""
+    },
+    {
+        "title": "A conversation with ChatGPT on the role of computational systems biology in stem cell research",
+        "abstract": ""
+    },
+    {
+        "title": "Chapter Five: Deciphering the molecular biology of inflammatory breast cancer through molecular characterization of patient samples and preclinical models",
+        "abstract": ""
+    },
+    {
+        "title": "Chemical biology tools to probe bacterial glycans",
+        "abstract": ""
+    },
+    {
+        "title": "The ORFans  tale: new insights in plant biology",
+        "abstract": ""
+    },
+    {
+        "title": "Molecular biology of microRNA-342 during tumor progression and invasion",
+        "abstract": ""
+    },
+    {
+        "title": "Abstract 2408: A New CURE in Molecular Biology: Testing a Novel Pyrrolidine Compound to Determine Mechanism of Action in an Upper-Division Molecular Biology Course",
+        "abstract": ""
+    },
+    {
+        "title": "Accelerating the understanding of cancer biology through the lens of genomics",
+        "abstract": ""
+    },
+    {
+        "title": "NF-ÎºB-mediated temporal changes in redox biology-related biomarkers across the natural menstrual cycle of eumenorrheic women",
+        "abstract": ""
+    },
+    {
+        "title": "Inclusion of Nitrofurantoin into the Realm of Cancer Chemotherapy via Biology-Oriented Synthesis and Drug Repurposing",
+        "abstract": ""
+    },
+    {
+        "title": "Developmental biology: Wait a bit and then you will smell it",
+        "abstract": ""
+    },
+    {
+        "title": "Lymphocyte-activation gene 3 (LAG-3) as a promising immune checkpoint in cancer immunotherapy: From biology to the clinic",
+        "abstract": ""
+    },
+    {
+        "title": "Genetically encoded fluorescent sensors for metals in biology",
+        "abstract": ""
+    },
+    {
+        "title": "Reproductive biology of the totoaba (Totoaba macdonaldi), an endangered species in the Gulf of California",
+        "abstract": ""
+    },
+    {
+        "title": "Structural biology of SMC complexes across the tree of life",
+        "abstract": ""
+    },
+    {
+        "title": "Deciphering breast cancer: from biology to the clinic",
+        "abstract": ""
+    },
+    {
+        "title": "Nodular lymphocyte-predominant Hodgkin lymphoma: advances in disease biology, risk stratification, and treatment",
+        "abstract": ""
+    },
+    {
+        "title": "SFTSV-Nluc: a useful tool for studying SFTSV biology and countermeasures",
+        "abstract": ""
+    },
+    {
+        "title": "Electronic Cigarette Stimulates Extracellular Vesicles and Redox Biology",
+        "abstract": ""
+    },
+    {
+        "title": "Progress in HNE Biology",
+        "abstract": ""
+    },
+    {
+        "title": "COVID-19 diagnostics: Molecular biology to nanomaterials",
+        "abstract": ""
+    },
+    {
+        "title": "Floral biology and flower visitors of cocoa (Theobroma cacao L.) in the upper Magdalena Valley, Colombia",
+        "abstract": ""
+    },
+    {
+        "title": "Current status and future prospects in cannabinoid production through in vitro culture and synthetic biology",
+        "abstract": ""
+    },
+    {
+        "title": "Transcriptional kinetic synergy: A complex landscape revealed by integrating modeling and synthetic biology",
+        "abstract": ""
+    },
+    {
+        "title": "A chromosome-scale genome assembly of the grape powdery mildew pathogen Erysiphe necator reveals its genomic architecture and previously unknown features of its biology",
+        "abstract": ""
+    },
+    {
+        "title": "Biology of cancer: Understanding the supracellular control of mitosis in physiological processes and malignancy",
+        "abstract": ""
+    },
+    {
+        "title": "Exploring DNA Repair Mechanisms in Cancer Biology: Critical Insights and Open Questions",
+        "abstract": ""
+    },
+    {
+        "title": "Exosome-mediated tumor metastasis: Biology, molecular targets and immuno-therapeutic options",
+        "abstract": ""
+    },
+    {
+        "title": "Chapter 19: Systems biology in COVID-19",
+        "abstract": ""
+    },
+    {
+        "title": "Communicating developmental biology - Gen Z takes the reins",
+        "abstract": ""
+    },
+    {
+        "title": "Chemistry and biology of enzymes in protein glutathionylation",
+        "abstract": ""
+    },
+    {
+        "title": "Generative Artificial Intelligence GPT4 Accelerates Knowledge Mining and Machine Learning for Synthetic Biology",
+        "abstract": ""
+    },
+    {
+        "title": "Discovering the next decade s synthetic biology research trends with ChatGPT",
+        "abstract": ""
+    },
+    {
+        "title": "Implementation of specifications grading in an upper-division chemical biology course",
+        "abstract": ""
+    },
+    {
+        "title": "Mitochondrial genome-derived circRNAs: Orphan epigenetic regulators in molecular biology",
+        "abstract": ""
+    },
+    {
+        "title": "Chapter Two: Data enhancement in the age of spatial biology",
+        "abstract": ""
+    },
+    {
+        "title": "Droplets, tails and loops: The role of intrinsic disorder in R-loop biology",
+        "abstract": ""
+    },
+    {
+        "title": "Structural biology of MCR-1-mediated resistance to polymyxin antibiotics",
+        "abstract": ""
+    },
+    {
+        "title": "The next decade in structural biology",
+        "abstract": ""
+    },
+    {
+        "title": "Mitochondrial biology: Unique membrane remodeling from the matrix",
+        "abstract": ""
+    },
+    {
+        "title": "Cell Biology of Extracellular Vesicles",
+        "abstract": ""
+    },
+    {
+        "title": "Editorial: Mechanistic biology",
+        "abstract": ""
+    },
+    {
+        "title": "Designer Nanodiscs to Probe and Reprogram Membrane Biology in Synapses",
+        "abstract": ""
+    },
+    {
+        "title": "Chapter Two: The fusion of physics and biology in early mammalian embryogenesis",
+        "abstract": ""
+    },
+    {
+        "title": "Formate hydrogenlyase, formic acid translocation and hydrogen production: dynamic membrane biology during fermentation",
+        "abstract": ""
+    },
+    {
+        "title": "The Future of Redox Biology summary",
+        "abstract": ""
+    },
+    {
+        "title": "Plant proteomics: From the molecular basis of biological processes to a systems biology perspective",
+        "abstract": ""
+    },
+    {
+        "title": "Chapter 18: Phospholipases as therapeutic targets: Systems biology and bioinformatics approaches",
+        "abstract": ""
+    },
+    {
+        "title": "Recent progress and challenges in synthetic biology for improving microbial production of biopolymers",
+        "abstract": ""
+    },
+    {
+        "title": "BCMA loss in the epoch of novel immunotherapy for multiple myeloma: from biology to clinical practice",
+        "abstract": ""
+    },
+    {
+        "title": "Molecular insights into epoxyazadiradione induced death in triple-negative breast cancer cells: A system biology approach",
+        "abstract": ""
+    },
+    {
+        "title": "Synthetic Biology Facilitates Semisynthetic Development of Type V Glycopeptide Antibiotics Targeting Vancomycin-Resistant Enterococcus",
+        "abstract": ""
+    },
+    {
+        "title": "Response to Letter to Editor regarding   Morphology and cell biology - two sides of the same coin: Importance of morphology in choosing Cre experimental models for targeting osteoblasts vs osteocytes ",
+        "abstract": ""
+    },
+    {
+        "title": "Sex biology in amyotrophic lateral sclerosis",
+        "abstract": ""
+    },
+    {
+        "title": "Photoreactive bioorthogonal lipid probes and their applications in mammalian biology",
+        "abstract": ""
+    },
+    {
+        "title": "Corrigendum to   Modeling signaling pathways in biology with MaBoSS: From one single cell to a dynamic population of heterogeneous interacting cells  [Comput. Struct. Biotechnol. 20 (2022) 5661 5671]",
+        "abstract": ""
+    },
+    {
+        "title": "2nd symposium on engineering biology and BioFoundry",
+        "abstract": ""
+    },
+    {
+        "title": "Menopause Biology, consequences, supportive care, and therapeutic options",
+        "abstract": ""
+    },
+    {
+        "title": "Emerging technologies in thyroid biology: Pushing the frontiers of thyroid research",
+        "abstract": ""
+    },
+    {
+        "title": "Chemistry meets biology in the coordination dynamics of metalloproteins",
+        "abstract": ""
+    },
+    {
+        "title": "Investigating the anti-cancer potential of pyrimethamine analogues through a modern chemical biology lens",
+        "abstract": ""
+    },
+    {
+        "title": "Sustainability and molecular biology: An interview with Dr. Dustin King",
+        "abstract": ""
+    },
+    {
+        "title": "Roles of H3K4 methylation in biology and disease",
+        "abstract": ""
+    },
+    {
+        "title": "Toward multiscale derivation of behavioral dynamics: Comment to   What is life? Active particles tools towards behavioral dynamics in social-biology and economics , by B. Bellomo, M. Esfahanian, V. Secchini, and P. Terna",
+        "abstract": ""
+    },
+    {
+        "title": "Understanding cell biology using cryo-electron microscopy",
+        "abstract": ""
+    },
+    {
+        "title": "Combining culture optimization and synthetic biology to improve production and detection of secondary metabolites in Myxococcus xanthus: application to myxoprincomide",
+        "abstract": ""
+    },
+    {
+        "title": "Advances in the biology of selenium and selenoproteins",
+        "abstract": ""
+    },
+    {
+        "title": "A multidisciplinary method to assess the reproductive biology of Mystus bleekeri",
+        "abstract": ""
+    },
+    {
+        "title": "Mosquito biology: Scents and selectability",
+        "abstract": ""
+    },
+    {
+        "title": "40 years of useful biology",
+        "abstract": ""
+    },
+    {
+        "title": "Dissecting the biophysics and biology of intrinsically disordered proteins",
+        "abstract": ""
+    },
+    {
+        "title": "P-158: Depicting a network of PKC effectors and their roles in the biology of CTCL cells",
+        "abstract": ""
+    },
+    {
+        "title": "Chapter Three: Current computational methods for spatial transcriptomics in cancer biology",
+        "abstract": ""
+    },
+    {
+        "title": "Organoid systems for investigating trophoblast biology and maternal-fetal interactions in human pregnancy",
+        "abstract": ""
+    },
+    {
+        "title": "Intrinsic disorder and structural biology: Searching where the light isn t",
+        "abstract": ""
+    },
+    {
+        "title": "SP-0677 FAIR data management in radiation biology and radiation oncology research",
+        "abstract": ""
+    },
+    {
+        "title": "Chapter One: The organizer: What it meant, and still means, to developmental biology",
+        "abstract": ""
+    },
+    {
+        "title": "Exploring the inflammation-related mechanisms of Lingguizhugan decoction on right ventricular remodeling secondary to pulmonary arterial hypertension based on integrated strategy using UPLC-HRMS, systems biology approach, and experimental validation",
+        "abstract": ""
+    },
+    {
+        "title": "3.04: Placenta Stem Cells: Biology and Clinical Applications",
+        "abstract": ""
+    },
+    {
+        "title": "Structural biology: Proteobacterial accessories for diverse cellulose synthesis",
+        "abstract": ""
+    },
+    {
+        "title": "Quantitative Genetics in Conservation Biology",
+        "abstract": ""
+    },
+    {
+        "title": "Abstract 1895:   It s completely erasure : A Qualitative Exploration of Experiences of Transgender, Nonbinary, Gender Nonconforming, and Questioning Students in Biology Courses",
+        "abstract": ""
+    },
+    {
+        "title": "A forward look to perspectives: Comment on   What is life? Active particles tools towards behavioral dynamics in social-biology and economics , by B. Bellomo, M. Esfahanian, V. Secchini, and P. Terna",
+        "abstract": ""
+    },
+    {
+        "title": "Plant biology: Managing age-related bursts during leaf development",
+        "abstract": ""
+    },
+    {
+        "title": "Multiscale data for parametrising multiscale models: Comment on   What is life? Active particles tools towards behavioral dynamics in social-biology and economics ",
+        "abstract": ""
+    },
+    {
+        "title": "Insights into 4-hydroxyphenylpyruvate dioxygenase-inhibitor interactions from comparative structural biology",
+        "abstract": ""
+    },
+    {
+        "title": "Abstract 2402: Exploring Biodiversity in Metagenomics CUREs for General Biology",
+        "abstract": ""
+    },
+    {
+        "title": "Agrobacterium tumefaciens-mediated transformation for the genetic modification of the biotechnologically relevant fungus Aspergillus vadensis through synthetic biology",
+        "abstract": ""
+    },
+    {
+        "title": "Chapter Ten: Free energy calculations for membrane morphological transformations and insights to physical biology and oncology",
+        "abstract": ""
+    },
+    {
+        "title": "HIPK2 in cancer biology and therapy: Recent findings and future perspectives",
+        "abstract": ""
+    },
+    {
+        "title": "Abstract 2691: Research-centered learning in a workshop style Cell/Molecular Biology CURE",
+        "abstract": ""
+    },
+    {
+        "title": "The biology of mitochondrial carrier homolog 2",
+        "abstract": ""
+    },
+    {
+        "title": "Structural biology of SARS-CoV-2 Mpro and drug discovery",
+        "abstract": ""
+    },
+    {
+        "title": "Abstract 1637: Adventures in the Biological Chemistry, Molecular Biology and Evolution of Sialic Acids",
+        "abstract": ""
+    },
+    {
+        "title": "Proteomics analysis for Redox Biology investigation: basic principles and future perspectives",
+        "abstract": ""
+    },
+    {
+        "title": "Preclinical Evaluation of 89Zr-Panitumumab for Biology-Guided Radiation Therapy",
+        "abstract": ""
+    },
+    {
+        "title": "Biology of childhood hepatoblastoma and the search for novel treatments",
+        "abstract": ""
+    },
+    {
+        "title": "Chapter 144: Biology of the major human fungal pathogen Candida albicans",
+        "abstract": ""
+    },
+    {
+        "title": "Single cell RNA-seq analysis with a systems biology approach to recognize important differentially expressed genes in pancreatic ductal adenocarcinoma compared to adjacent non-cancerous samples by targeting pancreatic endothelial cells",
+        "abstract": ""
+    },
+    {
+        "title": "P044: Topic: AS04-MDS Biology and Pathogenesis/AS04b-Clonal diversity & evolution: IMPROVING THE CLONAL EVOLUTION MODEL: THE CASE OF CMML",
+        "abstract": ""
+    },
+    {
+        "title": "Utilizing coordination chemistry through formation of a CuII-quinalizarin complex to manipulate cell biology: An in vitro, in silico approach",
+        "abstract": ""
+    },
+    {
+        "title": "Harnessing computational spatial omics to explore the spatial biology intricacies",
+        "abstract": ""
+    },
+    {
+        "title": "Dual-specificity RNA aptamers: A sweet new tool for studying O-GlcNAc biology",
+        "abstract": ""
+    },
+    {
+        "title": "A look forward to further developments: Building bridges between mathematics and economics in a multiscale fashion: Comment to   What is life? Active particles tools towards behavioral dynamics in social-biology and economics , by B. Bellomo, M. Esfahanian, V. Secchini, and P. Terna",
+        "abstract": ""
+    },
+    {
+        "title": "Editorial: Special issue on synthetic developmental biology",
+        "abstract": ""
+    },
+    {
+        "title": "Applying AI methods to protein biology",
+        "abstract": ""
+    },
+    {
+        "title": "Current Topics in DEVELOPMENTAL BIOLOGY",
+        "abstract": ""
+    },
+    {
+        "title": "Abstract 2487: Polysialic Acid: Chemistry and Biology",
+        "abstract": ""
+    },
+    {
+        "title": "Addressing market regime transitions with the tools of behavioral swarms and kinetic theory: Comment on   What is life? Active particles tools towards behavioral dynamics in social-biology and economics , by B. Bellomo, M. Esfahanian, V. Secchini, and P. Terna",
+        "abstract": ""
+    },
+    {
+        "title": "Improving the soluble expression of difficult-to-express proteins in prokaryotic expression system via protein engineering and synthetic biology strategies",
+        "abstract": ""
+    },
+    {
+        "title": "P035: Topic: AS04-MDS Biology and Pathogenesis/AS04a-Normal, MDS, and leukemic stem cells: MULTIOMIC ANALYSIS OF CHIP BONE MARROW HEMATOPOIETIC STEM/PROGENITOR CELLS REVEALS POTENTIAL EARLY STAGE OF MALIGNANCY",
+        "abstract": ""
+    },
+    {
+        "title": "P081: Topic: AS04-MDS Biology and Pathogenesis/AS04h-Immune deregulation/inflammation: AZACYTIDINE TREATMENT UNDERSCORES ITS HYPOMETHYLATING EFFECT IN HUMAN LEYKOCYTE ANTIGEN G (HLA-G) GENE PROMOTER REGION OF HIGH-RISK (HR)-MDS PATIENTS",
+        "abstract": ""
+    },
+    {
+        "title": "Seasonal biology: Tanycytes give the hypothalamus a spring makeover",
+        "abstract": ""
+    },
+    {
+        "title": "Feasibility of biology-guided radiotherapy for metastatic renal cell carcinoma driven by PSMA PET imaging",
+        "abstract": ""
+    }
+]
